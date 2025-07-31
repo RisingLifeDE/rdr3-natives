@@ -102074,7 +102074,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "clipSet"
                 }
             ],
@@ -105731,11 +105731,11 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDictionary"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animationName"
                 },
                 {
@@ -110380,11 +110380,11 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDict"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animName"
                 },
                 {
@@ -110444,11 +110444,11 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDict"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animName"
                 },
                 {
@@ -121238,7 +121238,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "textureDict"
                 }
             ],
