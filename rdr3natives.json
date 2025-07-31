@@ -110420,7 +110420,7 @@
                     "name": "p10"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "taskFilter"
                 },
                 {
