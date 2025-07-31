@@ -38,7 +38,7 @@ def merge_json_namespaces(output_file, schema_file):
     print(f'Merged JSON written to {output_file}')
 
 
-output_file = 'rdr3natives.json'
+output_file = 'natives.json'
 schema_file = 'schema.json'
 
 merge_json_namespaces(output_file, schema_file)

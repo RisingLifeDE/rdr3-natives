@@ -37,15 +37,15 @@ jobs:
       uses: docker://orrosenblatt/validate-json-action:latest
       env:
         INPUT_SCHEMA: ./schema.json
-        INPUT_JSONS: ./rdr3natives.json
+        INPUT_JSONS: ./natives.json
 
     - name: Commit and push changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         if [ -n "$(git status --porcelain)" ]; then
-          git add rdr3natives.json
-          git commit -m "Update rdr3natives.json with new data"
+          git add natives.json
+          git commit -m "Update natives.json with new data"
           git push origin HEAD:master
         else
           echo "No changes to commit"
@@ -66,13 +66,13 @@ jobs:
         prerelease: false
         generate_release_notes: true
 
-    - name: Upload rdr3natives.json to Release
+    - name: Upload natives.json to Release
       if: steps.create_release.outputs.upload_url != ''
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./rdr3natives.json
-        asset_name: rdr3natives.json
+        asset_path: ./natives.json
+        asset_name: natives.json
         asset_content_type: application/json
