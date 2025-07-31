@@ -45067,7 +45067,7 @@
             "comment": "Computes a hash for the given string. It is hashed using Jenkins' One-at-a-Time hash algorithm (https://en.wikipedia.org/wiki/Jenkins_hash_function)\nNote: this implementation is case-insensitive.",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "string"
                 }
             ],
@@ -101512,7 +101512,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDict"
                 }
             ],
@@ -101528,7 +101528,7 @@
             "comment": "Alias for HAS_ANIM_SET_LOADED.",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "clipSet"
                 }
             ],
@@ -102058,7 +102058,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDict"
                 }
             ],
@@ -121268,7 +121268,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "textureDict"
                 },
                 {
