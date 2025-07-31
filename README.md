@@ -1,13 +1,9 @@
-# RDR3natives
+# Red Dead Natives
 This repository is for educational purposes only.
 Since there is no official Cfx documentation and likely never will be, we decided to create our own. This way, the community can contribute their research and help RedM grow.
 
 ### Contribute
-
-- Make sure to fill out the template, or your submission will be closed.
-- Ensure that your PR meets our standards and aligns with existing content.
-- Provide examples and, if possible, cite your sources so your research can be verified.
-- To try guess a native name using this link [natives ABC](https://gist.github.com/fingaweg/2a7653c73daf985f73667e9c424cb624)
+As this is an repo for our project, consider to contribute directly at the main repo: https://github.com/VORPCORE/RDR3natives
 
 ### valid param types and return types
 - look in schema.json
