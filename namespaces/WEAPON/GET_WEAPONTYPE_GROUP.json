@@ -10,8 +10,6 @@
         ],
         "return_type": "Hash",
         "build": "1207",
-        "gta_hash": "0xC3287EE3050FB74C",
-        "gta_jhash": "0x5F2DE833",
         "examples": []
     }
 }

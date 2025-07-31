@@ -36,21 +36,9 @@
 								} 
 							}
 						},
-						"variadic": { "type": "boolean" },
-						"unused": { "type": "boolean" },
-						"gta_hash": {
-							"type": "string",
-							"pattern": "^0x[0-9A-F]{16}$"
-						},
-						"gta_jhash": {
-							"type": "string",
-							"pattern": "^($|0x[0-9A-F]{8})$"
-						}
+						"variadic": { "type": "boolean" }
 					},
 					"required": ["name", "comment", "params", "return_type", "build"],
-					"dependencies": {
-						"gta_hash": ["gta_jhash"]
-					},
 					"additionalProperties": false
 				}
 			},

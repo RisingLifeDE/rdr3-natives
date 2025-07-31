@@ -5,9 +5,6 @@
         "params": [],
         "return_type": "void",
         "build": "1207",
-        "unused": true,
-        "gta_hash": "0x6FD992C4A1C1B986",
-        "gta_jhash": "",
         "examples": []
     }
 }

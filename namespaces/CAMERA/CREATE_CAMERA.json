@@ -14,8 +14,6 @@
         ],
         "return_type": "Cam",
         "build": "1207",
-        "gta_hash": "0x5E3CF89C6BCCA67D",
-        "gta_jhash": "0x5D6739AE",
         "examples": []
     }
 }

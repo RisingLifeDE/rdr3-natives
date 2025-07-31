@@ -10,7 +10,6 @@
         ],
         "return_type": "void",
         "build": "1207",
-        "unused": true,
         "examples": []
     }
 }

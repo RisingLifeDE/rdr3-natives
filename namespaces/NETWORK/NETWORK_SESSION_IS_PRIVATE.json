@@ -5,8 +5,6 @@
         "params": [],
         "return_type": "BOOL",
         "build": "1207",
-        "gta_hash": "0xCEF70AA5B3F89BA1",
-        "gta_jhash": "0xDB67785D",
         "examples": []
     }
 }

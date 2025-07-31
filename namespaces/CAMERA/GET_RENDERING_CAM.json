@@ -5,8 +5,6 @@
         "params": [],
         "return_type": "Cam",
         "build": "1207",
-        "gta_hash": "0x5234F9F10919EABA",
-        "gta_jhash": "0x0FCF4DF1",
         "examples": []
     }
 }
