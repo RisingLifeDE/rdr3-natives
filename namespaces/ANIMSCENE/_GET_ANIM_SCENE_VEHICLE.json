@@ -18,7 +18,6 @@
         ],
         "return_type": "Vehicle",
         "build": "1207",
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

@@ -18,7 +18,6 @@
         ],
         "return_type": "BOOL",
         "build": "1311",
-        "examples": [],
-        "apiset": "client"
+        "examples": []
     }
 }

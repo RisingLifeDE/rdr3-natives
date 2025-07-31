@@ -19,7 +19,6 @@
         "return_type": "void",
         "build": "1207",
         "variadic": true,
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

@@ -54,7 +54,6 @@
         ],
         "return_type": "void",
         "build": "1232",
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

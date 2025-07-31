@@ -10,7 +10,6 @@
         ],
         "return_type": "BOOL",
         "build": "1491",
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

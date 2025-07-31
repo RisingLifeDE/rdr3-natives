@@ -10,7 +10,6 @@
         ],
         "return_type": "Player",
         "build": "1207",
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

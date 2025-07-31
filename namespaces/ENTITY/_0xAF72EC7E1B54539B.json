@@ -10,7 +10,6 @@
         ],
         "return_type": "Entity",
         "build": "1311",
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

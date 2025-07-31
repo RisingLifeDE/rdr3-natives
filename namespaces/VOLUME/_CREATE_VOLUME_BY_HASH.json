@@ -46,7 +46,6 @@
         ],
         "return_type": "Volume",
         "build": "1207",
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

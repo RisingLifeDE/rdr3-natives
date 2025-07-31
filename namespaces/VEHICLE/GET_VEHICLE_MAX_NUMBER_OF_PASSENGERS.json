@@ -12,7 +12,6 @@
         "build": "1207",
         "gta_hash": "0xA7C4F2C6E744A550",
         "gta_jhash": "0x0A2FC08C",
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

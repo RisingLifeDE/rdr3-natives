@@ -14,7 +14,6 @@
         ],
         "return_type": "int",
         "build": "1311",
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

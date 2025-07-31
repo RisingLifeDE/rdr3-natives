@@ -22,7 +22,6 @@
         ],
         "return_type": "Vector3",
         "build": "1207",
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

@@ -26,7 +26,6 @@
         ],
         "return_type": "Blip",
         "build": "1207",
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

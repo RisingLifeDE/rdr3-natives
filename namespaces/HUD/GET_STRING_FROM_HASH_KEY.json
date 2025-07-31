@@ -10,7 +10,6 @@
         ],
         "return_type": "const char*",
         "build": "1207",
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

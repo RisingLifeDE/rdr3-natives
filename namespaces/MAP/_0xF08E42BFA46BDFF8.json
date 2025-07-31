@@ -20,7 +20,6 @@
                 "code": "local x,y = _GET_WAYPOINT_POSITION(Citizen.PointerValueFloat(),Citizen.PointerValueFloat())"
             }
             
-        ],
-        "apiset": "client"
+        ]
     }
 }

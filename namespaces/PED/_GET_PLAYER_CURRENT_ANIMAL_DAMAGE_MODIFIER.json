@@ -10,7 +10,6 @@
         ],
         "return_type": "float",
         "build": "1311",
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

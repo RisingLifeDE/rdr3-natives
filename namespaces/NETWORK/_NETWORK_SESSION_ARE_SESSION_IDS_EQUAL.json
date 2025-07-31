@@ -15,7 +15,6 @@
         "return_type": "BOOL",
         "build": "1311",
         "unused": true,
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

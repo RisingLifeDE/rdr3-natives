@@ -6,7 +6,6 @@
         "return_type": "int",
         "build": "1311",
         "unused": true,
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

@@ -10,7 +10,6 @@
         ],
         "return_type": "void",
         "build": "1311",
-        "examples": [],
-        "apiset": "client"
+        "examples": []
     }
 }

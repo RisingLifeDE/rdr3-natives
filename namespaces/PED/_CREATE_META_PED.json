@@ -46,7 +46,6 @@
         ],
         "return_type": "Ped",
         "build": "1207",
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

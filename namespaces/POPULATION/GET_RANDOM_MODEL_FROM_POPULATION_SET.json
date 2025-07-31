@@ -38,7 +38,6 @@
         ],
         "return_type": "Hash",
         "build": "1207",
-        "examples": [],
-        "apiset": ""
+        "examples": []
     }
 }

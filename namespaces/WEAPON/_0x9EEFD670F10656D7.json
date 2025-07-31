@@ -19,7 +19,6 @@
                "lang": "lua",
                "code": "local pedWeaponCollectionHash = GetDefaultPedWeaponCollection(joaat(\"mp_u_m_m_interrogator_01\"))\nlocal hash = Citizen.InvokeNative(0x9EEFD670F10656D7, pedWeaponCollectionHash, joaat(\"GROUP_REVOLVER\"))\nif hash and IsWeaponValid(hash) then\nlocal name = GetWeaponName(hash)\nlocal label = GetLabelText_2(name)\nprint(name, label)\nend"
             }
-        ],
-        "apiset": "client"
+        ]
     }
 }
