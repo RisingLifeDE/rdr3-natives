@@ -68,7 +68,7 @@
 			"type": "string",
 			"enum": [
 				"",
-				"int", "int*",
+				"int", "int*", "const int*",
 				"float", "float*",
 				"BOOL", "BOOL*",
 				"char*", "const char*",
