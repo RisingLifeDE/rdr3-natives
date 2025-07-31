@@ -1,8 +1,5 @@
 name: Merge natives, validate and create a release
 
-permissions:
-  contents: write
-
 on:
   push:
     branches:
