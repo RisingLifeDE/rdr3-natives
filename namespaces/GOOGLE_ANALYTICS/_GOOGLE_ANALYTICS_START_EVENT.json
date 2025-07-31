@@ -4,15 +4,15 @@
         "comment": "",
         "params": [
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "eventCategory"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "eventAction"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "eventLabel"
             },
             {

@@ -88,11 +88,11 @@
                 "name": "rotate"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "textureDict"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "textureName"
             },
             {

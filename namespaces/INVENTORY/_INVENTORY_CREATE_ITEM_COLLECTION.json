@@ -8,7 +8,7 @@
                 "name": "inventoryId"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "filterName"
             },
             {

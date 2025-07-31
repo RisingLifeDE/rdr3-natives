@@ -8,7 +8,7 @@
                 "name": "hash"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "name"
             },
             {

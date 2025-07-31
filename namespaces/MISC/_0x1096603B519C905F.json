@@ -4,7 +4,7 @@
         "comment": "_SET_MISSION_NAME_*(FOR_ACTIVITY?/MINIGAME?)",
         "params": [
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "name"
             }
         ],

@@ -12,11 +12,11 @@
                 "name": "reportType"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "description"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "horseName"
             }
         ],

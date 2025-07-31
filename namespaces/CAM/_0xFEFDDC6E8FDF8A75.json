@@ -4,7 +4,7 @@
         "comment": "_SET_GAMEPLAY_P* - _SET_GAMEPLAY_V*",
         "params": [
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "shakeName"
             },
             {

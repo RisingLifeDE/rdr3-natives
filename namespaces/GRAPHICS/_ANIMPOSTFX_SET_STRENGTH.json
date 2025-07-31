@@ -4,7 +4,7 @@
         "comment": "must be called after ANIMPOSTFX_PLAY, strength 0.0f - 1.0f",
         "params": [
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "effectName"
             },
             {

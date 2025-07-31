@@ -3,7 +3,7 @@
         "name": "_NETWORK_GET_STRING_CASH_BALANCE",
         "comment": "",
         "params": [],
-        "return_type": "const char*",
+        "return_type": "chair*",
         "build": "1207",
         "unused": true,
         "examples": [],

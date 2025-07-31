@@ -4,7 +4,7 @@
         "comment": "Deletes the given context from the background scripts context map.",
         "params": [
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "contextName"
             }
         ],

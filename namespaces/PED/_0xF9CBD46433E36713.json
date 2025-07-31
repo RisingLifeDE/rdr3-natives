@@ -40,7 +40,7 @@
                 "name": "p8"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "p9"
             }
         ],

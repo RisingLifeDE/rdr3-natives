@@ -8,11 +8,11 @@
                 "name": "entity"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "propertyName"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "value"
             }
         ],

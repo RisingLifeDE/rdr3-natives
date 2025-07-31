@@ -4,7 +4,7 @@
         "comment": "Health Core Effect Filter Potency: p1 = 1\nStamina Core Effect Filter Potency: p1 = 2\nMultiple Core Effect Filter Potency: p1 = 3",
         "params": [
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "effectName"
             },
             {

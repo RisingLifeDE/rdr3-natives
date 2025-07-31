@@ -16,15 +16,15 @@
                 "name": "p2"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "gamemodeName"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "title"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "subtitle"
             }
         ],

@@ -8,7 +8,7 @@
                 "name": "interior"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "entitySetName"
             }
         ],

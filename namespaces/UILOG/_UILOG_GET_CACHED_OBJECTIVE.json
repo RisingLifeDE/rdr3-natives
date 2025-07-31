@@ -3,7 +3,7 @@
         "name": "_UILOG_GET_CACHED_OBJECTIVE",
         "comment": "",
         "params": [],
-        "return_type": "const char*",
+        "return_type": "chair*",
         "build": "1207",
         "examples": [],
         "apiset": ""

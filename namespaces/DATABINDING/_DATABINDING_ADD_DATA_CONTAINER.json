@@ -8,7 +8,7 @@
                 "name": "entryId"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "p1"
             }
         ],

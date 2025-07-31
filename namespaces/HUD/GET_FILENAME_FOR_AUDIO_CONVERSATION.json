@@ -4,11 +4,11 @@
         "comment": "Gets a string literal from a label name.\n\nOld name: _GET_LABEL_TEXT",
         "params": [
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "labelName"
             }
         ],
-        "return_type": "const char*",
+        "return_type": "chair*",
         "build": "1207",
         "gta_hash": "0x7B5280EBA9840C72",
         "gta_jhash": "0x95C4B5AD",

@@ -20,15 +20,15 @@
                 "name": "p3"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "p4"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "p5"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "p6"
             },
             {

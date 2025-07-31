@@ -20,7 +20,7 @@
                 "name": "radius"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "name"
             }
         ],

@@ -4,7 +4,7 @@
         "comment": "Only used in R* Script fm_mission_controller",
         "params": [
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "name"
             },
             {

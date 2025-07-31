@@ -4,15 +4,15 @@
         "comment": "",
         "params": [
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "animDictionary"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "animName"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "p2"
             },
             {

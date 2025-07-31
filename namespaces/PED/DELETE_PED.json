@@ -4,7 +4,7 @@
         "comment": "Deletes the specified ped, then sets the handle pointed to by the pointer to NULL.",
         "params": [
             {
-                "type": "Ped*",
+                "type": "Ped",
                 "name": "ped"
             }
         ],

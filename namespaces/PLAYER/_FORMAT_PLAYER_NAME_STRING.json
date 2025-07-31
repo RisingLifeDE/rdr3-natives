@@ -8,7 +8,7 @@
                 "name": "string"
             }
         ],
-        "return_type": "const char*",
+        "return_type": "chair*",
         "build": "1207",
         "examples": [],
         "apiset": ""

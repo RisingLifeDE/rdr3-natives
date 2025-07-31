@@ -36,7 +36,7 @@
                 "name": "zRot"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "damagePack"
             }
         ],

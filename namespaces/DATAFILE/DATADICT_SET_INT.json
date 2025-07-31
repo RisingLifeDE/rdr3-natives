@@ -8,7 +8,7 @@
                 "name": "objectData"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "key"
             },
             {

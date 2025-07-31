@@ -28,7 +28,7 @@
                 "name": "p5"
             },
             {
-                "type": "const char*",
+                "type": "chair*",
                 "name": "soundsetName"
             },
             {
