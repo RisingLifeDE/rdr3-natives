@@ -14,17 +14,13 @@
             {
                 "type": "float",
                 "name": "z"
-            },
-            {
-                "type": "float*",
-                "name": "groundZ"
-            },
-            {
-                "type": "Vector3*",
-                "name": "normal"
             }
         ],
-        "return_type": "BOOL",
+        "return_type": [
+          "BOOL",
+          "float",
+          "Vector3"
+        ],
         "build": "1207",
         "gta_hash": "0x8BDC7BFC57A81E76",
         "gta_jhash": "0x64D91CED",

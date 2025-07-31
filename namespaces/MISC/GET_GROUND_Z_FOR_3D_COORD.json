@@ -16,15 +16,14 @@
                 "name": "z"
             },
             {
-                "type": "float*",
-                "name": "groundZ"
-            },
-            {
                 "type": "BOOL",
                 "name": "p4"
             }
         ],
-        "return_type": "BOOL",
+        "return_type": [
+          "BOOL",
+          "float"
+        ],
         "build": "1207",
         "gta_hash": "0xC906A7DAB05C8D2B",
         "gta_jhash": "0xA1BFD5E0",
