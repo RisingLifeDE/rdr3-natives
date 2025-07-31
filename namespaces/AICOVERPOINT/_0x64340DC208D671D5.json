@@ -4,7 +4,7 @@
         "comment": "coverLayer: see levels_0/levels/rdr3/coverlayers",
         "params": [
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "coverLayer"
             }
         ],

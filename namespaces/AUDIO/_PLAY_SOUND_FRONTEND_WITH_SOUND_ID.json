@@ -8,11 +8,11 @@
                 "name": "soundId"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "name"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "soundSet"
             },
             {

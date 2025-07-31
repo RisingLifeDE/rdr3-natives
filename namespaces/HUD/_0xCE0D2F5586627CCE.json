@@ -8,19 +8,19 @@
                 "name": "active"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "string1"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "string2"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "string3"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "string4"
             }
         ],

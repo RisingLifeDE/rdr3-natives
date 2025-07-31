@@ -8,7 +8,7 @@
                 "name": "interior"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "entitySetName"
             }
         ],

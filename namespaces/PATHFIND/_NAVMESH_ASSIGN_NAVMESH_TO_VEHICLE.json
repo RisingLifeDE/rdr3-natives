@@ -8,7 +8,7 @@
                 "name": "vehicle"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "navMeshName"
             }
         ],

@@ -12,11 +12,11 @@
                 "name": "reportType"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "description"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "horseName"
             }
         ],

@@ -40,7 +40,7 @@
                 "name": "p8"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "p9"
             }
         ],

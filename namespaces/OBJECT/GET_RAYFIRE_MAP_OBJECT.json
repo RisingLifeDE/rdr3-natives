@@ -20,7 +20,7 @@
                 "name": "radius"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "name"
             }
         ],

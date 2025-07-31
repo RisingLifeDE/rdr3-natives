@@ -12,7 +12,7 @@
                 "name": "object"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "p2"
             },
             {
@@ -20,7 +20,7 @@
                 "name": "scenarioType"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "p4"
             },
             {

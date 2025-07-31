@@ -8,7 +8,7 @@
                 "name": "player"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "username"
             },
             {
@@ -20,7 +20,7 @@
                 "name": "isRockstarClan"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "clanTag"
             },
             {

@@ -8,7 +8,7 @@
                 "name": "tvChannel"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "playlistName"
             },
             {

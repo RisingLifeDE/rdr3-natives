@@ -8,11 +8,11 @@
                 "name": "gamerHandle"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "filePath"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "name"
             },
             {

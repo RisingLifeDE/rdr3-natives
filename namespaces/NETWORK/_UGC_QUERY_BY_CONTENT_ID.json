@@ -4,7 +4,7 @@
         "comment": "Returns ugcRequestId",
         "params": [
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "contentId"
             },
             {
@@ -12,7 +12,7 @@
                 "name": "latestVersion"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "contentTypeName"
             }
         ],

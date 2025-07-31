@@ -16,7 +16,7 @@
                 "name": "z"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "interiorType"
             }
         ],

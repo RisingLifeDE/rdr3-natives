@@ -8,7 +8,7 @@
                 "name": "netRpcGuid"
             }
         ],
-        "return_type": "chair*",
+        "return_type": "char*",
         "build": "1311",
         "examples": [],
         "apiset": ""

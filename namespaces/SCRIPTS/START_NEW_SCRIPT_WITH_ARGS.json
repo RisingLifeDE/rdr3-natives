@@ -4,7 +4,7 @@
         "comment": "return : script thread id, 0 if failed\nPass pointer to struct of args in p1, size of struct goes into p2",
         "params": [
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "scriptName"
             },
             {

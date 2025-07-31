@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "attrName"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "value"
             },
             {

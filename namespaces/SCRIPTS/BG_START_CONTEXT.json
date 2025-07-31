@@ -4,7 +4,7 @@
         "comment": "Inserts the given context into the background scripts context map.",
         "params": [
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "contextName"
             }
         ],

@@ -4,7 +4,7 @@
         "comment": "Returns true when investigation creation was successful",
         "params": [
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "guardZoneName"
             },
             {

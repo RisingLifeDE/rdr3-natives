@@ -8,11 +8,11 @@
                 "name": "objectData"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "key"
             }
         ],
-        "return_type": "chair*",
+        "return_type": "char*",
         "build": "1207",
         "gta_hash": "0x3D2FD9E763B24472",
         "gta_jhash": "0x942160EC",

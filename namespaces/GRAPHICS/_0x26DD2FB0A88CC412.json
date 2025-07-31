@@ -4,11 +4,11 @@
         "comment": "effectName2, p2 and p3 are unused\n\nANIMPOSTFX_*",
         "params": [
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "effectName"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "effectName2"
             },
             {

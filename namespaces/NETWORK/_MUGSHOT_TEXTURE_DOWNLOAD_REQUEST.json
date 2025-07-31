@@ -12,7 +12,7 @@
                 "name": "p1"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "name"
             },
             {

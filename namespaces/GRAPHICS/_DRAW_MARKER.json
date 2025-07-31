@@ -88,11 +88,11 @@
                 "name": "rotate"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "textureDict"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "textureName"
             },
             {

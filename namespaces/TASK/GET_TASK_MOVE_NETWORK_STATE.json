@@ -8,7 +8,7 @@
                 "name": "ped"
             }
         ],
-        "return_type": "chair*",
+        "return_type": "char*",
         "build": "1207",
         "gta_hash": "0x717E4D1F2048376D",
         "gta_jhash": "0x96C0277B",

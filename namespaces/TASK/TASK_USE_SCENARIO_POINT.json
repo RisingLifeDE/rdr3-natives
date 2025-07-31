@@ -12,7 +12,7 @@
                 "name": "scenario"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "conditionalAnim"
             },
             {

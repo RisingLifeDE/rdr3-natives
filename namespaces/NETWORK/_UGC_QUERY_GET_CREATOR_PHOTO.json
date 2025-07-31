@@ -16,7 +16,7 @@
                 "name": "p2"
             }
         ],
-        "return_type": "chair*",
+        "return_type": "char*",
         "build": "1207",
         "examples": [],
         "apiset": ""

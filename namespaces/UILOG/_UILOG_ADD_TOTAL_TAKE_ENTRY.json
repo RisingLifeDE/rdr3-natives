@@ -12,11 +12,11 @@
                 "name": "p1"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "p2"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "p3"
             },
             {

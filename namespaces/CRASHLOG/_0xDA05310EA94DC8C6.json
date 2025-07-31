@@ -4,11 +4,11 @@
         "comment": "unused = true",
         "params": [
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "p0"
             },
             {
-                "type": "chair*",
+                "type": "char*",
                 "name": "p1"
             }
         ],
