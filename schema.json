@@ -106,7 +106,6 @@
         "BOOL",
         "BOOL*",
         "char*",
-        "const char*",
         "Any",
         "Any*",
         "Blip",
@@ -154,69 +153,13 @@
       "anyOf": [
         {
           "type": "string",
-          "enum": [
-            "void",
-            "int",
-            "float",
-            "BOOL",
-            "const char*",
-            "Any",
-            "Any*",
-            "Blip",
-            "Cam",
-            "Entity",
-            "FireId",
-            "Hash",
-            "Interior",
-            "ItemSet",
-            "Object",
-            "Ped",
-            "Pickup",
-            "Player",
-            "ScrHandle",
-            "Vector3",
-            "Vehicle",
-            "AnimScene",
-            "PersChar",
-            "PopZone",
-            "Prompt",
-            "PropSet",
-            "Volume"
-          ]
+          "enum": ["void", "int", "float", "BOOL", "char*", "Any", "Any*", "Blip", "Cam", "Entity", "FireId", "Hash", "Interior", "ItemSet", "Object", "Ped", "Pickup", "Player", "ScrHandle", "Vector3", "Vehicle", "AnimScene", "PersChar", "PopZone", "Prompt", "PropSet", "Volume"]
         },
         {
           "type": "array",
           "items": {
             "type": "string",
-            "enum": [
-              "void",
-              "int",
-              "float",
-              "BOOL",
-              "const char*",
-              "Any",
-              "Any*",
-              "Blip",
-              "Cam",
-              "Entity",
-              "FireId",
-              "Hash",
-              "Interior",
-              "ItemSet",
-              "Object",
-              "Ped",
-              "Pickup",
-              "Player",
-              "ScrHandle",
-              "Vector3",
-              "Vehicle",
-              "AnimScene",
-              "PersChar",
-              "PopZone",
-              "Prompt",
-              "PropSet",
-              "Volume"
-            ]
+            "enum": ["void", "int", "float", "BOOL", "char*", "Any", "Any*", "Blip", "Cam", "Entity", "FireId", "Hash", "Interior", "ItemSet", "Object", "Ped", "Pickup", "Player", "ScrHandle", "Vector3", "Vehicle", "AnimScene", "PersChar", "PopZone", "Prompt", "PropSet", "Volume"]
           }
         }
       ]
