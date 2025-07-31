@@ -43097,7 +43097,7 @@
                     "name": "blip"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
