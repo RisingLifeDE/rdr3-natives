@@ -18095,7 +18095,7 @@
             "comment": "Deletes the specified entity, then sets the handle pointed to by the pointer to NULL.",
             "params": [
                 {
-                    "type": "Entity",
+                    "type": "const Entity*",
                     "name": "entity"
                 }
             ],
@@ -20289,7 +20289,7 @@
             "comment": "Marks the specified entity (ped, vehicle or object) as no longer needed.\nEntities marked as no longer needed, will be deleted as the engine sees fit.",
             "params": [
                 {
-                    "type": "Entity",
+                    "type": "const Entity*",
                     "name": "entity"
                 }
             ],
@@ -20995,7 +20995,7 @@
             "comment": "This is an alias of SET_ENTITY_AS_NO_LONGER_NEEDED.",
             "params": [
                 {
-                    "type": "Object",
+                    "type": "const Object*",
                     "name": "object"
                 }
             ],
@@ -21011,7 +21011,7 @@
             "comment": "This is an alias of SET_ENTITY_AS_NO_LONGER_NEEDED.",
             "params": [
                 {
-                    "type": "Ped",
+                    "type": "const Ped*",
                     "name": "ped"
                 }
             ],
@@ -21027,7 +21027,7 @@
             "comment": "This is an alias of SET_ENTITY_AS_NO_LONGER_NEEDED.",
             "params": [
                 {
-                    "type": "Vehicle",
+                    "type": "const Vehicle*",
                     "name": "vehicle"
                 }
             ],
@@ -22633,7 +22633,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "Entity",
+                    "type": "const Entity*",
                     "name": "entity"
                 }
             ],
@@ -22647,7 +22647,7 @@
             "comment": "Must be called from a background script, otherwise it will do nothing.",
             "params": [
                 {
-                    "type": "Entity",
+                    "type": "const Entity*",
                     "name": "entity"
                 }
             ],
@@ -59313,7 +59313,7 @@
             "comment": "Deletes the specified object, then sets the handle pointed to by the pointer to NULL.",
             "params": [
                 {
-                    "type": "Object",
+                    "type": "const Object*",
                     "name": "object"
                 }
             ],
@@ -65655,7 +65655,7 @@
             "comment": "Deletes the specified ped, then sets the handle pointed to by the pointer to NULL.",
             "params": [
                 {
-                    "type": "Ped",
+                    "type": "const Ped*",
                     "name": "ped"
                 }
             ],
@@ -65745,7 +65745,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "Ped",
+                    "type": "const Ped*",
                     "name": "ped"
                 }
             ],
@@ -86211,7 +86211,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "int",
+                    "type": "const int*",
                     "name": "ropeId"
                 }
             ],
@@ -123691,7 +123691,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "Vehicle",
+                    "type": "const Vehicle*",
                     "name": "train"
                 }
             ],
@@ -123707,7 +123707,7 @@
             "comment": "Deletes a vehicle.\nThe vehicle must be a mission entity to delete, so call this before deleting: SET_ENTITY_AS_MISSION_ENTITY(vehicle, true, true);\n\neg how to use:\nSET_ENTITY_AS_MISSION_ENTITY(vehicle, true, true);\nDELETE_VEHICLE(&vehicle);\n\nDeletes the specified vehicle, then sets the handle pointed to by the pointer to NULL.",
             "params": [
                 {
-                    "type": "Vehicle",
+                    "type": "const Vehicle*",
                     "name": "vehicle"
                 }
             ],
@@ -125295,7 +125295,7 @@
             "comment": "flags = 0: DEFAULT; 1: KEEP_OLD_SPEED",
             "params": [
                 {
-                    "type": "Vehicle",
+                    "type": "const Vehicle*",
                     "name": "train"
                 },
                 {
@@ -129739,7 +129739,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "Vehicle",
+                    "type": "const Vehicle*",
                     "name": "vehicle"
                 }
             ],
@@ -136798,7 +136798,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "Object*",
+                    "type": "const Object*",
                     "name": "weaponObject"
                 },
                 {
