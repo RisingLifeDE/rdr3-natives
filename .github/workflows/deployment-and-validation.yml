@@ -3,10 +3,10 @@ name: Merge natives, validate and create a release
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   run-merge-and-release:
@@ -43,7 +43,7 @@ jobs:
         if [ -n "$(git status --porcelain)" ]; then
           git add rdr3natives.json
           git commit -m "Update rdr3natives.json with new data"
-          git push origin HEAD:main
+          git push origin HEAD:master
         else
           echo "No changes to commit"
         fi
