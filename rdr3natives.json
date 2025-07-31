@@ -42123,7 +42123,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "Blip*",
+                    "type": "const Blip*",
                     "name": "blip"
                 }
             ],
@@ -101949,7 +101949,7 @@
             "comment": "Alias for REMOVE_ANIM_SET.",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "clipSet"
                 }
             ],
@@ -101993,7 +101993,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -104993,7 +104993,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "waypointRecording"
                 }
             ],
