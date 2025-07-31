@@ -12,7 +12,7 @@
                 "name": "volume"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "p2"
             },
             {

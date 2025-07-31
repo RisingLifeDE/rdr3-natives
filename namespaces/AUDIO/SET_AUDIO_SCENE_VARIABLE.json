@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "scene"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "variable"
             },
             {

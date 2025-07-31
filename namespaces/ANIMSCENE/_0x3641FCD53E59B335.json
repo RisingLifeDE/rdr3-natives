@@ -12,7 +12,7 @@
                 "name": "ped"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "secondaryVoiceString"
             }
         ],

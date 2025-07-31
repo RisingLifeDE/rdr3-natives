@@ -8,11 +8,11 @@
                 "name": "entity"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "animDict"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "animName"
             }
         ],

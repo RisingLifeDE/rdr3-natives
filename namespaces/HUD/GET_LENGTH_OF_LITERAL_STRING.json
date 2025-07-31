@@ -4,7 +4,7 @@
         "comment": "Returns the length of the string passed (much like strlen).",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "string"
             }
         ],

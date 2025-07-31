@@ -24,7 +24,7 @@
                 "name": "p4"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "name"
             },
             {

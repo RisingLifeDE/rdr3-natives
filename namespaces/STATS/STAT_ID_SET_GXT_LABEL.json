@@ -8,7 +8,7 @@
                 "name": "statId"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "label"
             },
             {

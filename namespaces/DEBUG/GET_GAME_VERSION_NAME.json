@@ -3,7 +3,7 @@
         "name": "GET_GAME_VERSION_NAME",
         "comment": "Return example: 1207.69_dev_pc, 1436.28_dev_live_tu\n\nOld name: _GET_GAME_BUILD_STRING",
         "params": [],
-        "return_type": "char*",
+        "return_type": "chair*",
         "build": "1207",
         "unused": true,
         "examples": [],

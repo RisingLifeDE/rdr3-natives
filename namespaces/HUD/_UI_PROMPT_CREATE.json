@@ -8,7 +8,7 @@
                 "name": "inputHash"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "labelName"
             },
             {

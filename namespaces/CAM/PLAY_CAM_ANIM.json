@@ -8,11 +8,11 @@
                 "name": "cam"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "animName"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "animDictionary"
             },
             {

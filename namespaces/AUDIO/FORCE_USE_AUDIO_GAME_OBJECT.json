@@ -8,7 +8,7 @@
                 "name": "vehicle"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "audioName"
             }
         ],

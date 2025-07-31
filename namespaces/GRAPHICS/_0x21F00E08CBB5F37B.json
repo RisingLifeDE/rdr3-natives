@@ -4,7 +4,7 @@
         "comment": "Params: component - used in odriscolls1 and sean1 R* SP Script: COMPONENT_BINOCULARS_SCOPE01\nTriggers the binocular scaleform",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "component"
             }
         ],

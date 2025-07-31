@@ -12,7 +12,7 @@
                 "name": "maxGet"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "contentTypeName"
             },
             {

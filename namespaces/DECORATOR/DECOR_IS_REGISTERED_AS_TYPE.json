@@ -4,7 +4,7 @@
         "comment": "type: see DECOR_REGISTER",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "propertyName"
             },
             {

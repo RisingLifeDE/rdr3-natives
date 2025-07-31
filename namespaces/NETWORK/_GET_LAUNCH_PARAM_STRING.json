@@ -3,7 +3,7 @@
         "name": "_GET_LAUNCH_PARAM_STRING",
         "comment": "",
         "params": [],
-        "return_type": "char*",
+        "return_type": "chair*",
         "build": "1207",
         "examples": [],
         "apiset": ""

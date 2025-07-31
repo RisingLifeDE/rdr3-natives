@@ -4,11 +4,11 @@
         "comment": "_IS_SOUND_RUNNING(?)",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "audioName"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "audioRef"
             }
         ],

@@ -4,7 +4,7 @@
         "comment": "Registers a script for any object with a specific model hash.",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "scriptName"
             },
             {

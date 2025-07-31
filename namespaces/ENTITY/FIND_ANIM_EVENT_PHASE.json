@@ -4,15 +4,15 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "animDictionary"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "animName"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "p2"
             },
             {

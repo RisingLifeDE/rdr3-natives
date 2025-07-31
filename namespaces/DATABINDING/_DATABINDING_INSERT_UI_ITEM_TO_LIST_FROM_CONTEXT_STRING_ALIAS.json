@@ -12,7 +12,7 @@
                 "name": "index"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "p2"
             },
             {

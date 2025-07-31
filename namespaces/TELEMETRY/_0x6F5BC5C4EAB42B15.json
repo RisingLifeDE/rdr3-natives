@@ -12,7 +12,7 @@
                 "name": "type"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "contentId"
             }
         ],

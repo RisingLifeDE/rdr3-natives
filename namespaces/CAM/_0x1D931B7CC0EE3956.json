@@ -4,15 +4,15 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "dictionary"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "shotName"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "cameraName"
             }
         ],

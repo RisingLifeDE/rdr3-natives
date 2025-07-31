@@ -8,11 +8,11 @@
                 "name": "entity"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "propertyName"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "value"
             }
         ],

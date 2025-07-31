@@ -4,7 +4,7 @@
         "comment": "Note: you must use VAR_STRING. Byte code very similar to TEXT_COMMAND_DISPLAY_TEXT in V\nOld name: _GET_TEXT_SUBSTRING",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "text"
             },
             {
@@ -16,7 +16,7 @@
                 "name": "length"
             }
         ],
-        "return_type": "char*",
+        "return_type": "chair*",
         "build": "1207",
         "gta_hash": "0x169BD9382084C8C0",
         "gta_jhash": "0x34A396EE",

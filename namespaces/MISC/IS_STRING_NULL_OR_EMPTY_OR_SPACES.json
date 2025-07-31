@@ -4,7 +4,7 @@
         "comment": "Returns true if the entire string consists only of space characters.",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "string"
             }
         ],

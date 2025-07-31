@@ -8,7 +8,7 @@
                 "name": "object"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "name"
             }
         ],

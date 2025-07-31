@@ -12,7 +12,7 @@
                 "name": "arrayIndex"
             }
         ],
-        "return_type": "char*",
+        "return_type": "chair*",
         "build": "1207",
         "gta_hash": "0xD3F2FFEB8D836F52",
         "gta_jhash": "0x93F985A6",

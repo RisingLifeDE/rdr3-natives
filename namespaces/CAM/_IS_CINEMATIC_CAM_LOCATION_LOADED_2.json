@@ -4,7 +4,7 @@
         "comment": "Checks data related to Cinematic Cam Locations, if the check fails, the location is being loaded using 0x1B3C2D961F5FC0E1.",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "locationDictName"
             }
         ],

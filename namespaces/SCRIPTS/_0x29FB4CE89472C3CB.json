@@ -20,15 +20,15 @@
                 "name": "p3"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "p4"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "p5"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "p6"
             },
             {

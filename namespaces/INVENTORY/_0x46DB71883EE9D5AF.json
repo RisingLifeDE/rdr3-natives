@@ -8,7 +8,7 @@
                 "name": "data"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "stats"
             },
             {

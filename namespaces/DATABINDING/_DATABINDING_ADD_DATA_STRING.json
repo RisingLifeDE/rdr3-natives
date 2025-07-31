@@ -8,11 +8,11 @@
                 "name": "p0"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "p1"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "p2"
             }
         ],

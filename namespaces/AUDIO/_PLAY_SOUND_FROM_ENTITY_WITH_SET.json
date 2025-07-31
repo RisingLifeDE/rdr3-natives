@@ -8,7 +8,7 @@
                 "name": "soundId"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "soundName"
             },
             {
@@ -16,7 +16,7 @@
                 "name": "entity"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "soundsetName"
             },
             {

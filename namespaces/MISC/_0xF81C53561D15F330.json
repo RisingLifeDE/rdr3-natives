@@ -3,7 +3,7 @@
         "name": "_0xF81C53561D15F330",
         "comment": "",
         "params": [],
-        "return_type": "char*",
+        "return_type": "chair*",
         "build": "1207",
         "examples": [],
         "apiset": ""

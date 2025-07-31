@@ -4,7 +4,7 @@
         "comment": "Only used in sisikapenitentiary R* Script: name = SISIKA\n_IS_G* or _IS_H*",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "name"
             }
         ],

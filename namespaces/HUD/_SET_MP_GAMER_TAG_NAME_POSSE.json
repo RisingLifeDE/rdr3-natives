@@ -8,7 +8,7 @@
                 "name": "gamerTagId"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "text"
             }
         ],

@@ -4,7 +4,7 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "variableName"
             },
             {
@@ -12,11 +12,11 @@
                 "name": "variableValue"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "audioName"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "audioRef"
             }
         ],

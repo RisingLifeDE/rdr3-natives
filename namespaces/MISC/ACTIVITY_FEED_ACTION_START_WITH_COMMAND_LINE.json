@@ -4,11 +4,11 @@
         "comment": "nullsub, doesn't do anything",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "p0"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "p1"
             }
         ],

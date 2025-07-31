@@ -8,7 +8,7 @@
                 "name": "hash"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "name"
             },
             {

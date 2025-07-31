@@ -4,7 +4,7 @@
         "comment": "Resets the effect of SET_PARTICLE_FX_OVERRIDE",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "name"
             }
         ],

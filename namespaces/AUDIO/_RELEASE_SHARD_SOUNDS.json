@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "soundName"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "soundsetName"
             }
         ],

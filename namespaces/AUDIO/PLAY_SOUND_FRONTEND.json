@@ -4,11 +4,11 @@
         "comment": "https://github.com/femga/rdr3_discoveries/tree/master/audio/frontend_soundsets",
         "params": [
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "audioName"
             },
             {
-                "type": "char*",
+                "type": "chair*",
                 "name": "audioRef"
             },
             {
