@@ -20289,7 +20289,7 @@
             "comment": "Marks the specified entity (ped, vehicle or object) as no longer needed.\nEntities marked as no longer needed, will be deleted as the engine sees fit.",
             "params": [
                 {
-                    "type": "Entity*",
+                    "type": "Entity",
                     "name": "entity"
                 }
             ],
@@ -20995,7 +20995,7 @@
             "comment": "This is an alias of SET_ENTITY_AS_NO_LONGER_NEEDED.",
             "params": [
                 {
-                    "type": "Object*",
+                    "type": "Object",
                     "name": "object"
                 }
             ],
@@ -21011,7 +21011,7 @@
             "comment": "This is an alias of SET_ENTITY_AS_NO_LONGER_NEEDED.",
             "params": [
                 {
-                    "type": "Ped*",
+                    "type": "Ped",
                     "name": "ped"
                 }
             ],
@@ -21027,7 +21027,7 @@
             "comment": "This is an alias of SET_ENTITY_AS_NO_LONGER_NEEDED.",
             "params": [
                 {
-                    "type": "Vehicle*",
+                    "type": "Vehicle",
                     "name": "vehicle"
                 }
             ],
@@ -121306,7 +121306,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "textureDict"
                 }
             ],
@@ -125295,7 +125295,7 @@
             "comment": "flags = 0: DEFAULT; 1: KEEP_OLD_SPEED",
             "params": [
                 {
-                    "type": "Vehicle*",
+                    "type": "Vehicle",
                     "name": "train"
                 },
                 {
