@@ -8191,7 +8191,7 @@
             "apiset": ""
         }
     },
-    "CAM": {
+    "CAMERA": {
         "0xF1F57F9D230F9CD1": {
             "name": "ADD_CAM_SPLINE_NODE",
             "comment": "p7 (length) determines the length of the spline, affects camera path and duration of transition between previous node and this one\n\np8 big values ~100 will slow down the camera movement before reaching this node\n\np9 != 0 seems to override the rotation/pitch (bool?)",
