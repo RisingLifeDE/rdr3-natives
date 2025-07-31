@@ -4,7 +4,7 @@
         "comment": "",
         "params": [
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "convoRoot"
             },
             {
@@ -12,7 +12,7 @@
                 "name": "ped"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "characterName"
             }
         ],

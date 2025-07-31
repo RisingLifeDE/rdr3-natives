@@ -4,7 +4,7 @@
         "comment": "ANIMPOSTFX_*",
         "params": [
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "effectName"
             },
             {

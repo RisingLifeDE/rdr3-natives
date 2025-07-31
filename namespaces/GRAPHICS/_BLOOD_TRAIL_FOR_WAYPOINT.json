@@ -4,7 +4,7 @@
         "comment": "p1: 0.3f in R* Scripts",
         "params": [
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "waypointRecording"
             },
             {

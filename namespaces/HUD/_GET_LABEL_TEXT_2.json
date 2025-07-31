@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "label"
             }
         ],
-        "return_type": "chair*",
+        "return_type": "const char*",
         "build": "1207",
         "examples": [],
         "apiset": ""

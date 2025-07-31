@@ -4,7 +4,7 @@
         "comment": "https://github.com/femga/rdr3_discoveries/blob/master/graphics/timecycles",
         "params": [
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "modifierName"
             }
         ],

@@ -12,11 +12,11 @@
                 "name": "object"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "propName"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "animName"
             }
         ],

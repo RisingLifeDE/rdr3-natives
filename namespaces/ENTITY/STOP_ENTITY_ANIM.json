@@ -8,11 +8,11 @@
                 "name": "entity"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "animation"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "animGroup"
             },
             {

@@ -12,15 +12,15 @@
                 "name": "object"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "conditionalAnim"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "p3"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "p4"
             },
             {

@@ -12,7 +12,7 @@
                 "name": "volume"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "p2"
             },
             {

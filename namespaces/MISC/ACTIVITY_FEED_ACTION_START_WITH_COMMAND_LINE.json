@@ -4,11 +4,11 @@
         "comment": "nullsub, doesn't do anything",
         "params": [
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "p0"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "p1"
             }
         ],

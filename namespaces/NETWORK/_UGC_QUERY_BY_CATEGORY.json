@@ -16,7 +16,7 @@
                 "name": "maxGet"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "contentTypeName"
             },
             {

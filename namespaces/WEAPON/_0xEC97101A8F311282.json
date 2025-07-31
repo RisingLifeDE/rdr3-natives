@@ -1,10 +1,10 @@
 {
-    "0x0C827D175F1292F2": {
-        "name": "_DATABINDING_GET_DATA_CONTAINER_FROM_PATH",
+    "0xEC97101A8F311282": {
+        "name": "_0xEC97101A8F311282",
         "comment": "",
         "params": [
             {
-                "type": "const char*",
+                "type": "Any",
                 "name": "p0"
             }
         ],

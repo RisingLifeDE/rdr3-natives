@@ -16,7 +16,7 @@
                 "name": "p2"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "p3"
             },
             {

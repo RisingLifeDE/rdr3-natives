@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "audioName"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "sceneset"
             }
         ],

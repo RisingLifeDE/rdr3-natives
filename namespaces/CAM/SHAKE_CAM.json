@@ -8,7 +8,7 @@
                 "name": "cam"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "type"
             },
             {

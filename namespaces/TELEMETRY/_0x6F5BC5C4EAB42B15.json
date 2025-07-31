@@ -12,7 +12,7 @@
                 "name": "type"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "contentId"
             }
         ],

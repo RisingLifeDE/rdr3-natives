@@ -8,7 +8,7 @@
                 "name": "ropeId"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "name"
             }
         ],

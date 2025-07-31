@@ -8,7 +8,7 @@
                 "name": "prompt"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "text"
             }
         ],

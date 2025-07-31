@@ -8,11 +8,11 @@
                 "name": "ped"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "p1"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "p2"
             }
         ],

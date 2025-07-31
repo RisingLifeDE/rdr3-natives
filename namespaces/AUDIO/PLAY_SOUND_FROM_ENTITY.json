@@ -4,7 +4,7 @@
         "comment": "",
         "params": [
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "audioName"
             },
             {
@@ -12,7 +12,7 @@
                 "name": "entity"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "audioRef"
             },
             {

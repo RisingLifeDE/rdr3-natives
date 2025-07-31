@@ -8,11 +8,11 @@
                 "name": "soundId"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "name"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "soundSet"
             },
             {

@@ -8,7 +8,7 @@
                 "name": "entity"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "text"
             }
         ],

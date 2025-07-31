@@ -8,7 +8,7 @@
                 "name": "gamerHandle"
             }
         ],
-        "return_type": "chair*",
+        "return_type": "const char*",
         "build": "1207",
         "unused": true,
         "gta_hash": "0x426141162EBE5CDB",

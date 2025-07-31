@@ -4,7 +4,7 @@
         "comment": "fxName: see data_0/data/effects/ptfx/fxlists/",
         "params": [
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "fxName"
             }
         ],

@@ -8,7 +8,7 @@
                 "name": "soundId"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "soundName"
             },
             {
@@ -24,7 +24,7 @@
                 "name": "z"
             },
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "soundsetName"
             },
             {

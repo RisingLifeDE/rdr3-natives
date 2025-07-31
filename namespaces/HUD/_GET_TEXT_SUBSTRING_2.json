@@ -4,7 +4,7 @@
         "comment": "Similar to 0x9D7E12EC6A1EE4E5(GET_TEXT_SUBSTRING) but starts at the beginning of the string",
         "params": [
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "text"
             },
             {
@@ -12,7 +12,7 @@
                 "name": "length"
             }
         ],
-        "return_type": "chair*",
+        "return_type": "const char*",
         "build": "1207",
         "examples": [],
         "apiset": ""

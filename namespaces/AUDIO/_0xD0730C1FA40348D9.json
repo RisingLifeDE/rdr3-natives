@@ -4,7 +4,7 @@
         "comment": "_IS_SCRIPTED_CONVERSATION_*",
         "params": [
             {
-                "type": "chair*",
+                "type": "const char*",
                 "name": "convoRoot"
             }
         ],
