@@ -65745,7 +65745,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "Ped*",
+                    "type": "Ped",
                     "name": "ped"
                 }
             ],
@@ -129739,7 +129739,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "Vehicle*",
+                    "type": "Vehicle",
                     "name": "vehicle"
                 }
             ],
