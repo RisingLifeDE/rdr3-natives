@@ -1,10 +1,10 @@
 {
     "0xCC0EF140F99365C5": {
-        "name": "const DELETE_PED*",
+        "name": "DELETE_PED",
         "comment": "Deletes the specified ped, then sets the handle pointed to by the pointer to NULL.",
         "params": [
             {
-                "type": "Ped",
+                "type": "const Ped*",
                 "name": "ped"
             }
         ],
