@@ -4,7 +4,7 @@
         "comment": "This is an alias of SET_ENTITY_AS_NO_LONGER_NEEDED.",
         "params": [
             {
-                "type": "Object",
+                "type": "const Object*",
                 "name": "object"
             }
         ],

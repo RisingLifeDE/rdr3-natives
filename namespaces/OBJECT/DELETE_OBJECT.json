@@ -4,7 +4,7 @@
         "comment": "Deletes the specified object, then sets the handle pointed to by the pointer to NULL.",
         "params": [
             {
-                "type": "Object",
+                "type": "const Object*",
                 "name": "object"
             }
         ],

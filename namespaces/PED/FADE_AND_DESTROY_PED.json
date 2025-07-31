@@ -4,7 +4,7 @@
         "comment": "",
         "params": [
             {
-                "type": "Ped",
+                "type": "const Ped*",
                 "name": "ped"
             }
         ],

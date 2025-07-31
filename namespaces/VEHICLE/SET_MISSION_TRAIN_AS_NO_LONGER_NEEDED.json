@@ -4,7 +4,7 @@
         "comment": "flags = 0: DEFAULT; 1: KEEP_OLD_SPEED",
         "params": [
             {
-                "type": "Vehicle",
+                "type": "const Vehicle*",
                 "name": "train"
             },
             {

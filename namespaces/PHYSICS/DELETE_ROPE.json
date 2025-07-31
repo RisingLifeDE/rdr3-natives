@@ -4,7 +4,7 @@
         "comment": "",
         "params": [
             {
-                "type": "int",
+                "type": "const int*",
                 "name": "ropeId"
             }
         ],
