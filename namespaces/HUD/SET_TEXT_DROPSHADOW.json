@@ -1,0 +1,31 @@
+{
+    "0x1BE39DBAA7263CA5": {
+        "name": "SET_TEXT_DROPSHADOW",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "distance"
+            },
+            {
+                "type": "int",
+                "name": "r"
+            },
+            {
+                "type": "int",
+                "name": "g"
+            },
+            {
+                "type": "int",
+                "name": "b"
+            },
+            {
+                "type": "int",
+                "name": "a"
+            }
+        ],
+        "return_type": "void",
+        "build": "unknown",
+        "examples": []
+    }
+}

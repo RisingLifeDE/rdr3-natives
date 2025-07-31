@@ -1,0 +1,15 @@
+{
+    "0x12DF9C58201DD19A": {
+        "name": "_ITEMDATABASE_GET_AWARD_ACQUIRE_COST_TYPE",
+        "comment": "_ITEMDATABASE_GET_(A)* - _ITEMDATABASE_GET_(B)*\n```\n\n```\nNativeDB Introduced: v1311",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1311",
+        "examples": []
+    }
+}

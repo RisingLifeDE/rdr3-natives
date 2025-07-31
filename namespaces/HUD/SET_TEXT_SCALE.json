@@ -1,0 +1,19 @@
+{
+    "0x4170B650590B3B00": {
+        "name": "SET_TEXT_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "float",
+                "name": "size"
+            }
+        ],
+        "return_type": "void",
+        "build": "unknown",
+        "examples": []
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "0x74C3B1093728D263": {
+        "name": "_0x74C3B1093728D263",
+        "comment": "_ITEMDATABASE_FILLOUT_(A)* - _ITEMDATABASE_FILLOUT_(B)*",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "examples": []
+    }
+}

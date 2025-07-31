@@ -1,0 +1,27 @@
+{
+    "0xDCEC875A02991AD0": {
+        "name": "_0xDCEC875A02991AD0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "Any",
+        "build": "unknown",
+        "examples": []
+    }
+}

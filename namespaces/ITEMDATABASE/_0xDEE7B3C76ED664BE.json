@@ -1,0 +1,19 @@
+{
+    "0xDEE7B3C76ED664BE": {
+        "name": "_0xDEE7B3C76ED664BE",
+        "comment": "Returns fillOutIndex (?)\n_ITEMDATABASE_GET_(A)* - _ITEMDATABASE_GET_(B)*\n```\n\n```\nNativeDB Introduced: v1232",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "costShop"
+            }
+        ],
+        "return_type": "int",
+        "build": "1232",
+        "examples": []
+    }
+}

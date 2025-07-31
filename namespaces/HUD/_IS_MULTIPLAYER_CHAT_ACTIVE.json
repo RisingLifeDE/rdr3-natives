@@ -1,0 +1,10 @@
+{
+    "0xBC19069D5FBB5C46": {
+        "name": "_IS_MULTIPLAYER_CHAT_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "unknown",
+        "examples": []
+    }
+}

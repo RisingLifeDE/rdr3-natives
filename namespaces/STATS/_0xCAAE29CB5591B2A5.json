@@ -1,0 +1,19 @@
+{
+    "0xCAAE29CB5591B2A5": {
+        "name": "_0xCAAE29CB5591B2A5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "unknown",
+        "examples": []
+    }
+}

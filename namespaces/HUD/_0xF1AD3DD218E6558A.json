@@ -1,0 +1,19 @@
+{
+    "0xF1AD3DD218E6558A": {
+        "name": "_0xF1AD3DD218E6558A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "unknown",
+        "examples": []
+    }
+}

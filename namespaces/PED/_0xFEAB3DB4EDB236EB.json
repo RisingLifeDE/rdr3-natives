@@ -1,0 +1,15 @@
+{
+    "0xFEAB3DB4EDB236EB": {
+        "name": "_0xFEAB3DB4EDB236EB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "unknown",
+        "examples": []
+    }
+}

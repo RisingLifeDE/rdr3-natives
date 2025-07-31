@@ -1,0 +1,15 @@
+{
+    "0xBE5261939FBECB8C": {
+        "name": "SET_TEXT_CENTRE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "align"
+            }
+        ],
+        "return_type": "void",
+        "build": "unknown",
+        "examples": []
+    }
+}

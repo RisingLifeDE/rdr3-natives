@@ -1,0 +1,31 @@
+{
+    "0xF65D2D35037BF5EC": {
+        "name": "_CASHINVENTORY_TRANSACTION_ADD_ITEM_WITH_INGREDIENTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            },
+            {
+                "type": "Any",
+                "name": "item"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "unknown",
+        "examples": []
+    }
+}

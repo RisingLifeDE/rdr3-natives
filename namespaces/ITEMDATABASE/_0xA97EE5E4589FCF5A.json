@@ -1,0 +1,19 @@
+{
+    "0xA97EE5E4589FCF5A": {
+        "name": "_0xA97EE5E4589FCF5A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "examples": []
+    }
+}

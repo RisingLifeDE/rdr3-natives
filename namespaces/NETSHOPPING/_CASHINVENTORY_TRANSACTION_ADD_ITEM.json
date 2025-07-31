@@ -1,0 +1,23 @@
+{
+    "0x3745C002F5A21C45": {
+        "name": "_CASHINVENTORY_TRANSACTION_ADD_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            },
+            {
+                "type": "Any",
+                "name": "item"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "unknown",
+        "examples": []
+    }
+}

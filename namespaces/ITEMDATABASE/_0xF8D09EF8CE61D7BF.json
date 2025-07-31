@@ -1,0 +1,19 @@
+{
+    "0xF8D09EF8CE61D7BF": {
+        "name": "_0xF8D09EF8CE61D7BF",
+        "comment": "_ITEMDATABASE_FILLOUT_(B)* - ITEMDATABASE_FILLOUT_ITEM*",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "examples": []
+    }
+}

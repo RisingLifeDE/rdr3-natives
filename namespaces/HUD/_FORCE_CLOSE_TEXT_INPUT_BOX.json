@@ -1,0 +1,10 @@
+{
+    "0xFBBF5943E4C2C992": {
+        "name": "_FORCE_CLOSE_TEXT_INPUT_BOX",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "unknown",
+        "examples": []
+    }
+}

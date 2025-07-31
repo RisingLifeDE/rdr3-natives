@@ -1,0 +1,19 @@
+{
+    "0xC1F04FB37E3F0E57": {
+        "name": "_0xC1F04FB37E3F0E57",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "unknown",
+        "examples": []
+    }
+}
