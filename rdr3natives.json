@@ -79,7 +79,7 @@
             "comment": "coverLayer: see levels_0/levels/rdr3/coverlayers",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "coverLayer"
                 }
             ],
@@ -107,7 +107,7 @@
             "comment": "coverLayer: see levels_0/levels/rdr3/coverlayers",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "coverLayer"
                 }
             ],
@@ -801,7 +801,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "entityName"
                 },
                 {
@@ -905,7 +905,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -937,7 +937,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "entityName"
                 },
                 {
@@ -949,7 +949,7 @@
                     "name": "p3"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "playbackListName"
                 },
                 {
@@ -971,7 +971,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -989,7 +989,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -1065,7 +1065,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "entityName"
                 }
             ],
@@ -1115,7 +1115,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "sectionName"
                 },
                 {
@@ -1195,7 +1195,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "entityName"
                 }
             ],
@@ -1245,7 +1245,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "entityName"
                 },
                 {
@@ -1267,7 +1267,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "playlistName"
                 }
             ],
@@ -1285,7 +1285,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "playbackListName"
                 }
             ],
@@ -1317,7 +1317,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -1343,7 +1343,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "entityName"
                 },
                 {
@@ -1369,7 +1369,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -1399,7 +1399,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -1485,7 +1485,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "playbackListName"
                 }
             ],
@@ -1503,7 +1503,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "playlistName"
                 },
                 {
@@ -1599,7 +1599,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -1626,7 +1626,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "phaseName"
                 }
             ],
@@ -1657,7 +1657,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "secondaryVoiceString"
                 }
             ],
@@ -1699,7 +1699,7 @@
             "comment": "Used in SP R* Scripts only\n_IS_ANIM_SCENE_R* - _IS_ANIM_SCENE_S*",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -1717,7 +1717,7 @@
                     "name": "mgmEventHandle"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -1947,7 +1947,7 @@
             "comment": "Returns mgmHandle",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "mgmFilename"
                 }
             ],
@@ -1993,7 +1993,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "entityName"
                 }
             ],
@@ -2011,7 +2011,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "playbackListName"
                 }
             ],
@@ -2029,7 +2029,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "entityId"
                 }
             ],
@@ -2075,7 +2075,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -2097,7 +2097,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -2119,7 +2119,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "phaseName"
                 }
             ],
@@ -2165,7 +2165,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -2187,7 +2187,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "entityName"
                 }
             ],
@@ -2269,7 +2269,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "phaseName"
                 }
             ],
@@ -2287,7 +2287,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "phaseName"
                 }
             ],
@@ -2305,7 +2305,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "phaseName"
                 }
             ],
@@ -2333,7 +2333,7 @@
             "comment": "MGM stands for MiniGameMoments.",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "mgmFilename"
                 }
             ],
@@ -2347,7 +2347,7 @@
             "comment": "Used to request MiniGameMoments Assets.\n\nmgmFilename's:\nPoker\nPokerArthur\nPokerArthurCamp\nPokerJohn\nPokerJohnCamp",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "mgmFilename"
                 }
             ],
@@ -2379,7 +2379,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "playlistName"
                 }
             ],
@@ -2415,7 +2415,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "archetype"
                 }
             ],
@@ -2433,7 +2433,7 @@
                     "name": "mgmEventHandle"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -2972,7 +2972,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "groupName"
                 },
                 {
@@ -2992,7 +2992,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "convoRoot"
                 },
                 {
@@ -3000,7 +3000,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "characterName"
                 }
             ],
@@ -3027,7 +3027,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -3053,7 +3053,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "eventName"
                 }
             ],
@@ -3069,7 +3069,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "ambientZone"
                 },
                 {
@@ -3089,7 +3089,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "zoneName"
                 },
                 {
@@ -3118,7 +3118,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "convoRoot"
                 }
             ],
@@ -3158,7 +3158,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "speechName"
                 },
                 {
@@ -3193,7 +3193,7 @@
                     "name": "vehicle"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioName"
                 }
             ],
@@ -3209,7 +3209,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -3311,7 +3311,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "scene"
                 }
             ],
@@ -3343,7 +3343,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
@@ -3367,7 +3367,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "convoRoot"
                 }
             ],
@@ -3383,7 +3383,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -3429,11 +3429,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "streamName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundSet"
                 }
             ],
@@ -3449,7 +3449,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
@@ -3513,7 +3513,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "vocalizationName"
                 },
                 {
@@ -3578,7 +3578,7 @@
         },
         "0x8E04FEDD28D42462": {
             "name": "PLAY_PED_AMBIENT_SPEECH_NATIVE",
-            "comment": "struct ScriptedSpeechParams\n{\n\tchar* speechName;\n\tchar* voiceName;\n\talignas(8) int variation;\n\talignas(8) Hash speechParamHash;\n\talignas(8) Ped listenerPed;\n\talignas(8) BOOL syncOverNetwork;\n\talignas(8) int v7;\n\talignas(8) int v8;\n};\n\nstatic_assert(sizeof(ScriptedSpeechParams) == 0x40, \"incorrect ScriptedSpeechParams size\");\n\n\nExample:\n\nScriptedSpeechParams params{\"RE_PH_RHD_V3_AGGRO\", \"0405_U_M_M_RhdSheriff_01\", 1, joaat(\"SPEECH_PARAMS_BEAT_SHOUTED_CLEAR\"), 0, true, 1, 1};\nPLAY_PED_AMBIENT_SPEECH_NATIVE(PLAYER_PED_ID(), (Any*)&params);\n\nOld name: _PLAY_AMBIENT_SPEECH1\nhttps://github.com/femga/rdr3_discoveries/tree/master/audio/audio_banks",
+            "comment": "struct ScriptedSpeechParams\n{\n\tconst char* speechName;\n\tconst char* voiceName;\n\talignas(8) int variation;\n\talignas(8) Hash speechParamHash;\n\talignas(8) Ped listenerPed;\n\talignas(8) BOOL syncOverNetwork;\n\talignas(8) int v7;\n\talignas(8) int v8;\n};\n\nstatic_assert(sizeof(ScriptedSpeechParams) == 0x40, \"incorrect ScriptedSpeechParams size\");\n\n\nExample:\n\nScriptedSpeechParams params{\"RE_PH_RHD_V3_AGGRO\", \"0405_U_M_M_RhdSheriff_01\", 1, joaat(\"SPEECH_PARAMS_BEAT_SHOUTED_CLEAR\"), 0, true, 1, 1};\nPLAY_PED_AMBIENT_SPEECH_NATIVE(PLAYER_PED_ID(), (Any*)&params);\n\nOld name: _PLAY_AMBIENT_SPEECH1\nhttps://github.com/femga/rdr3_discoveries/tree/master/audio/audio_banks",
             "params": [
                 {
                     "type": "Ped",
@@ -3601,11 +3601,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioRef"
                 },
                 {
@@ -3637,7 +3637,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioName"
                 },
                 {
@@ -3645,7 +3645,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioRef"
                 },
                 {
@@ -3671,11 +3671,11 @@
             "comment": "https://github.com/femga/rdr3_discoveries/tree/master/audio/frontend_soundsets",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioRef"
                 },
                 {
@@ -3763,7 +3763,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "convoRoot"
                 },
                 {
@@ -3791,7 +3791,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "eventName"
                 }
             ],
@@ -3807,11 +3807,11 @@
             "comment": "soundId maybe be incorrect name for param p2, in the decompiles is always -2",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundsetName"
                 },
                 {
@@ -3829,7 +3829,7 @@
             "comment": "https://github.com/femga/rdr3_discoveries/tree/master/audio/soundsets",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundsetName"
                 },
                 {
@@ -3847,7 +3847,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundName"
                 },
                 {
@@ -3855,7 +3855,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundsetName"
                 },
                 {
@@ -3889,7 +3889,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioBank"
                 }
             ],
@@ -3952,7 +3952,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -3968,7 +3968,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioBank"
                 }
             ],
@@ -3984,7 +3984,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -4004,7 +4004,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -4020,7 +4020,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "ambientZone"
                 },
                 {
@@ -4044,7 +4044,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "ambientZone"
                 },
                 {
@@ -4068,7 +4068,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "zoneName"
                 },
                 {
@@ -4092,7 +4092,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "ambientZone"
                 },
                 {
@@ -4136,7 +4136,7 @@
             "comment": "https://github.com/femga/rdr3_discoveries/tree/master/audio/audio_flags",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "flagName"
                 },
                 {
@@ -4156,7 +4156,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -4170,11 +4170,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "scene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variable"
                 },
                 {
@@ -4328,11 +4328,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -4348,7 +4348,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "emitterName"
                 },
                 {
@@ -4368,7 +4368,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -4384,7 +4384,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "scene"
                 }
             ],
@@ -4400,7 +4400,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "convoRoot"
                 }
             ],
@@ -4416,7 +4416,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "convoRoot"
                 },
                 {
@@ -4444,7 +4444,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "scene"
                 }
             ],
@@ -4531,7 +4531,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
@@ -4571,7 +4571,7 @@
             "comment": "https://github.com/femga/rdr3_discoveries/blob/master/audio/music_events/music_events.lua",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "eventName"
                 }
             ],
@@ -4714,7 +4714,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "convoRoot"
                 }
             ],
@@ -4805,7 +4805,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
@@ -4823,7 +4823,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audSpeechEvent"
                 }
             ],
@@ -4837,7 +4837,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
@@ -4891,7 +4891,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -5045,7 +5045,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
@@ -5077,7 +5077,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "convoRoot"
                 },
                 {
@@ -5180,11 +5180,11 @@
             "comment": "_IS_SOUND_RUNNING(?)",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioRef"
                 }
             ],
@@ -5479,7 +5479,7 @@
             "comment": "Only used in R* SP Script cv_mus_shared",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "convoRoot"
                 },
                 {
@@ -5641,7 +5641,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
@@ -5711,7 +5711,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "listenerName"
                 }
             ],
@@ -5973,7 +5973,7 @@
             "comment": "_IS_SCRIPTED_CONVERSATION_*",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "convoRoot"
                 }
             ],
@@ -6064,7 +6064,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -6164,7 +6164,7 @@
                     "name": "ropeId"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -6192,7 +6192,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -6206,7 +6206,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -6330,7 +6330,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "context"
                 },
                 {
@@ -6348,7 +6348,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "convoRoot"
                 }
             ],
@@ -6376,11 +6376,11 @@
             "comment": "Creates stream and returns streamId handle to be used with PLAY_STREAM_* natives\nhttps://github.com/femga/rdr3_discoveries/tree/master/audio/create_stream",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "streamName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundSet"
                 }
             ],
@@ -6408,11 +6408,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundsetName"
                 }
             ],
@@ -6490,7 +6490,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "convoRoot"
                 }
             ],
@@ -6504,7 +6504,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -6544,7 +6544,7 @@
                     "name": "soundId"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundName"
                 },
                 {
@@ -6552,7 +6552,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundsetName"
                 },
                 {
@@ -6596,7 +6596,7 @@
             "comment": "Old name: _PLAY_SOUND_FROM_POSITION",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "SoundName"
                 },
                 {
@@ -6612,7 +6612,7 @@
                     "name": "positionZ"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "SetName"
                 },
                 {
@@ -6646,7 +6646,7 @@
                     "name": "soundId"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundName"
                 },
                 {
@@ -6662,7 +6662,7 @@
                     "name": "z"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundsetName"
                 },
                 {
@@ -6692,11 +6692,11 @@
                     "name": "soundId"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundSet"
                 },
                 {
@@ -6714,11 +6714,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundsetName"
                 }
             ],
@@ -6732,7 +6732,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundsetName"
                 }
             ],
@@ -6746,7 +6746,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "ambientZone"
                 },
                 {
@@ -6776,11 +6776,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "sceneset"
                 }
             ],
@@ -6798,11 +6798,11 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 }
             ],
@@ -6820,7 +6820,7 @@
                     "name": "soundId"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 },
                 {
@@ -6838,7 +6838,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 },
                 {
@@ -6846,11 +6846,11 @@
                     "name": "variableValue"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioRef"
                 }
             ],
@@ -6886,7 +6886,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "whistleConfig"
                 },
                 {
@@ -6904,11 +6904,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "sceneset"
                 }
             ],
@@ -6953,7 +6953,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "sceneset"
                 }
             ],
@@ -6981,11 +6981,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "audioRef"
                 }
             ],
@@ -7013,7 +7013,7 @@
             "comment": "_UNLOAD_[A-C]* - USE_*",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "speechContext"
                 }
             ],
@@ -7625,7 +7625,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "scriptName"
                 }
             ],
@@ -7641,7 +7641,7 @@
             "comment": "Registers a script for any object with a specific model hash.",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "scriptName"
                 },
                 {
@@ -7732,7 +7732,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "scriptName"
                 },
                 {
@@ -7758,7 +7758,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "scriptName"
                 },
                 {
@@ -8345,7 +8345,7 @@
             "comment": "Only used in R* Script fm_mission_controller",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -8385,15 +8385,15 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "dictionary"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "shotName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "cameraName"
                 },
                 {
@@ -8411,7 +8411,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "camName"
                 },
                 {
@@ -8503,7 +8503,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "camName"
                 },
                 {
@@ -9218,11 +9218,11 @@
                     "name": "cam"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDictionary"
                 },
                 {
@@ -10326,7 +10326,7 @@
                     "name": "cam"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "type"
                 },
                 {
@@ -10346,7 +10346,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "shakeName"
                 },
                 {
@@ -10486,7 +10486,7 @@
             "comment": "shakeNames in script_rel: CORRECTOR_SHAKE, MINIGAME_BOUNTY_SHAKE, POV_DRUNK_SHAKE, DRUNK_SHAKE, MINIGAME_TRAIN_SHAKE\n_IS_GAMEPLAY_*",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "shakeName"
                 }
             ],
@@ -10643,15 +10643,15 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "dictionary"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "shotName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "cameraName"
                 }
             ],
@@ -10838,11 +10838,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "dictionary"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "shotName"
                 },
                 {
@@ -11139,11 +11139,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "dictionary"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "shotName"
                 },
                 {
@@ -11170,7 +11170,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "cameraDictionary"
                 }
             ],
@@ -11235,7 +11235,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "cameraDictionary"
                 }
             ],
@@ -11258,11 +11258,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "dictionary"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "shotName"
                 },
                 {
@@ -11280,7 +11280,7 @@
             "comment": "shakeName: REINFORCED_LASSO_STRUGGLE_SHAKE\n_RES*",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "shakeName"
                 },
                 {
@@ -11411,11 +11411,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "dictionary"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "shotName"
                 },
                 {
@@ -11505,7 +11505,7 @@
             "comment": "_SET_GAMEPLAY_P* - _SET_GAMEPLAY_V*",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "shakeName"
                 },
                 {
@@ -11523,7 +11523,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "cameraDictionary"
                 }
             ],
@@ -11537,7 +11537,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "cameraDictionary"
                 }
             ],
@@ -11551,7 +11551,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "cameraDictionary"
                 }
             ],
@@ -11565,7 +11565,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -11603,11 +11603,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "dictionary"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "shotName"
                 },
                 {
@@ -11752,7 +11752,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "cameraDictionary"
                 }
             ],
@@ -11766,7 +11766,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "cameraDictionary"
                 }
             ],
@@ -11789,7 +11789,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "sLocationDictName"
                 }
             ],
@@ -11803,7 +11803,7 @@
             "comment": "Checks data related to Cinematic Cam Locations, if the check fails, the location is being loaded using 0x1B3C2D961F5FC0E1.",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "locationDictName"
                 }
             ],
@@ -11835,7 +11835,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "cameraDictionary"
                 }
             ],
@@ -11849,7 +11849,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "locationDictName"
                 }
             ],
@@ -12039,7 +12039,7 @@
             "comment": "script_rel: DRUNK_SHAKE, REINFORCED_LASSO_STRUGGLE_SHAKE, CORRECTOR_SHAKE, MINIGAME_BOUNTY_SHAKE, HAND_SHAKE, MINIGAME_TRAIN_SHAKE\nscript_mp_rel: DRUNK_SHAKE, REINFORCED_LASSO_STRUGGLE_SHAKE\n_STOP_GAMEPLAY_CAM* - _STOP_I*",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "shakeName"
                 },
                 {
@@ -12066,7 +12066,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "cameraDictionary"
                 }
             ],
@@ -12080,7 +12080,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "dictionaryName"
                 }
             ],
@@ -13235,7 +13235,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -13427,7 +13427,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -13855,7 +13855,7 @@
                     "name": "subcategory"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1311",
             "examples": [],
             "apiset": ""
@@ -13873,7 +13873,7 @@
                     "name": "subcategory"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1311",
             "examples": [],
             "apiset": ""
@@ -13891,7 +13891,7 @@
                     "name": "subcategory"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1311",
             "examples": [],
             "apiset": ""
@@ -14071,7 +14071,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -14109,7 +14109,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -14124,7 +14124,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -14189,7 +14189,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -14204,7 +14204,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -14219,11 +14219,11 @@
             "comment": "unused = true",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -14578,11 +14578,11 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 }
             ],
@@ -14618,7 +14618,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -14662,7 +14662,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -14774,7 +14774,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -14818,7 +14818,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -14840,7 +14840,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -14854,7 +14854,7 @@
             "comment": "p0 seems to always be empty string, p1 is the hash of the path",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
@@ -14876,7 +14876,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -14894,7 +14894,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -14934,7 +14934,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -14974,11 +14974,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -15000,7 +15000,7 @@
                     "name": "entryId"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -15032,11 +15032,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -15054,7 +15054,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -15076,7 +15076,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -15098,7 +15098,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -15142,7 +15142,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -15186,7 +15186,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -15208,11 +15208,11 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 }
             ],
@@ -15234,7 +15234,7 @@
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 }
             ],
@@ -15248,15 +15248,15 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 }
             ],
@@ -15274,7 +15274,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -15292,7 +15292,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -15310,7 +15310,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -15342,11 +15342,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -15406,7 +15406,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -15472,7 +15472,7 @@
                     "name": "index"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 },
                 {
@@ -15498,7 +15498,7 @@
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 },
                 {
@@ -15534,7 +15534,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -15570,7 +15570,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -15606,7 +15606,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -15656,7 +15656,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -15792,7 +15792,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -15832,7 +15832,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -15872,7 +15872,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -15934,7 +15934,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -15978,7 +15978,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -16023,7 +16023,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -16045,7 +16045,7 @@
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 }
             ],
@@ -16255,7 +16255,7 @@
                     "name": "arrayIndex"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "gta_hash": "0xD3F2FFEB8D836F52",
             "gta_jhash": "0x93F985A6",
@@ -16311,7 +16311,7 @@
                     "name": "objectData"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "key"
                 }
             ],
@@ -16331,7 +16331,7 @@
                     "name": "objectData"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "key"
                 }
             ],
@@ -16351,7 +16351,7 @@
                     "name": "objectData"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "key"
                 }
             ],
@@ -16371,7 +16371,7 @@
                     "name": "objectData"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "key"
                 }
             ],
@@ -16391,7 +16391,7 @@
                     "name": "objectData"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "key"
                 }
             ],
@@ -16411,11 +16411,11 @@
                     "name": "objectData"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "key"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "gta_hash": "0x3D2FD9E763B24472",
             "gta_jhash": "0x942160EC",
@@ -16431,7 +16431,7 @@
                     "name": "objectData"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "key"
                 }
             ],
@@ -16451,7 +16451,7 @@
                     "name": "objectData"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "key"
                 }
             ],
@@ -16499,7 +16499,7 @@
                     "name": "objectData"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "key"
                 },
                 {
@@ -17243,7 +17243,7 @@
             "name": "GET_GAME_VERSION_NAME",
             "comment": "Return example: 1207.69_dev_pc, 1436.28_dev_live_tu\n\nOld name: _GET_GAME_BUILD_STRING",
             "params": [],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "unused": true,
             "examples": [],
@@ -17280,7 +17280,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propertyName"
                 }
             ],
@@ -17300,7 +17300,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propertyName"
                 }
             ],
@@ -17320,7 +17320,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propertyName"
                 }
             ],
@@ -17340,7 +17340,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propertyName"
                 }
             ],
@@ -17356,7 +17356,7 @@
             "comment": "type: see DECOR_REGISTER",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propertyName"
                 },
                 {
@@ -17376,7 +17376,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propertyName"
                 },
                 {
@@ -17400,7 +17400,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propertyName"
                 }
             ],
@@ -17434,7 +17434,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propertyName"
                 },
                 {
@@ -17458,7 +17458,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propertyName"
                 },
                 {
@@ -17482,7 +17482,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propertyName"
                 },
                 {
@@ -17506,11 +17506,11 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propertyName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "value"
                 }
             ],
@@ -17528,7 +17528,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propertyName"
                 }
             ],
@@ -17542,7 +17542,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propertyName"
                 },
                 {
@@ -17568,7 +17568,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propertyName"
                 },
                 {
@@ -18095,7 +18095,7 @@
             "comment": "Deletes the specified entity, then sets the handle pointed to by the pointer to NULL.",
             "params": [
                 {
-                    "type": "Entity",
+                    "type": "Entity*",
                     "name": "entity"
                 }
             ],
@@ -18203,15 +18203,15 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDictionary"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 },
                 {
@@ -18275,11 +18275,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDict"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animName"
                 }
             ],
@@ -18345,7 +18345,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "boneName"
                 }
             ],
@@ -18823,7 +18823,7 @@
                     "name": "p4"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p5"
                 }
             ],
@@ -19089,11 +19089,11 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDict"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animName"
                 },
                 {
@@ -19765,11 +19765,11 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDict"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animName"
                 },
                 {
@@ -19995,11 +19995,11 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDict"
                 },
                 {
@@ -21047,11 +21047,11 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animation"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animGroup"
                 },
                 {
@@ -21671,7 +21671,7 @@
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 },
                 {
@@ -21819,11 +21819,11 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDict"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animClip"
                 }
             ],
@@ -22579,7 +22579,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "waypointRecord"
                 },
                 {
@@ -22750,11 +22750,11 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDict"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animName"
                 }
             ],
@@ -23224,11 +23224,11 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDict"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animName"
                 },
                 {
@@ -23250,11 +23250,11 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDict"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animName"
                 },
                 {
@@ -24190,7 +24190,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "eventName"
                 },
                 {
@@ -24276,7 +24276,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "eventName"
                 },
                 {
@@ -24776,7 +24776,7 @@
                     "name": "p5"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "soundsetName"
                 },
                 {
@@ -26803,7 +26803,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "pageName"
                 }
             ],
@@ -26817,7 +26817,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "pageName"
                 }
             ],
@@ -26831,15 +26831,15 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "eventCategory"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "eventAction"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "eventLabel"
                 },
                 {
@@ -27083,7 +27083,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 }
             ],
@@ -27099,7 +27099,7 @@
             "comment": "https://github.com/femga/rdr3_discoveries/blob/master/graphics/animpostfx",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 }
             ],
@@ -27115,7 +27115,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 }
             ],
@@ -27274,7 +27274,7 @@
             "comment": "Possible values:\n\"CSM_ST_POINT\"\n\"CSM_ST_LINEAR\"\n\"CSM_ST_BOX3x3\"\n\"CSM_ST_BOX4x4\"\n\"CSM_ST_DITHER2_LINEAR\"\n\"CSM_ST_CUBIC\"\n\"CSM_ST_POISSON16\"\n\"CSM_ST_SOFT8\"\n\"CSM_ST_SOFT16\"\n\"CSM_ST_SOFT32\"\n\"CSM_ST_DITHER16_RPDB\"\n\"CSM_ST_POISSON16_RPDB_GNORM\"\n\"CSM_ST_HIGHRES_BOX4x4\"\n\"CSM_ST_ESM\"",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "type"
                 }
             ],
@@ -27558,11 +27558,11 @@
             "comment": "Draws a 2D sprite on the screen.\n\nParameters:\ntextureDict - Name of texture dictionary to load texture from\n\ntextureName - Name of texture to load from texture dictionary\n\nscreenX/Y - Screen offset (0.5 = center)\nscaleX/Y - Texture scaling. Negative values can be used to flip the texture on that axis. (0.5 = half)\n\nheading - Texture rotation in degrees (default = 0.0) positive is clockwise, measured in degrees\n\nred,green,blue - Sprite color (default = 255/255/255)\n\nalpha - opacity level\n\nhttps://github.com/femga/rdr3_discoveries/tree/master/useful_info_from_rpfs/textures",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "textureDict"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "textureName"
                 },
                 {
@@ -27819,7 +27819,7 @@
             "comment": "contentId: returned by NETWORK::_UGC_QUERY_GET_CREATOR_PHOTO(uVar0, 0, sParam3)",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "contentId"
                 }
             ],
@@ -28191,7 +28191,7 @@
             "comment": "Resets the effect of SET_PARTICLE_FX_OVERRIDE",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -28397,7 +28397,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -28527,7 +28527,7 @@
                     "name": "ptfxHandle"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propertyName"
                 },
                 {
@@ -28671,11 +28671,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "oldAsset"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "newAsset"
                 }
             ],
@@ -28741,7 +28741,7 @@
             "comment": "https://github.com/femga/rdr3_discoveries/blob/master/graphics/timecycles",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "modifierName"
                 }
             ],
@@ -28821,7 +28821,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "modifierName"
                 },
                 {
@@ -28877,7 +28877,7 @@
                     "name": "tvChannel"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "playlistName"
                 },
                 {
@@ -28913,7 +28913,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -28973,7 +28973,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -29037,7 +29037,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -29093,7 +29093,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -29153,7 +29153,7 @@
             "comment": "https://github.com/femga/rdr3_discoveries/blob/master/graphics/ptfx/ptfx_assets_looped.lua",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -29213,7 +29213,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -29273,7 +29273,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -29337,7 +29337,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -29401,7 +29401,7 @@
             "comment": "https://github.com/femga/rdr3_discoveries/blob/master/graphics/ptfx/ptfx_assets_non_looped.lua",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -29457,7 +29457,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -29517,7 +29517,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -29653,7 +29653,7 @@
             "comment": "fxName: see data_0/data/effects/ptfx/fxlists/",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "fxName"
                 }
             ],
@@ -29781,7 +29781,7 @@
             "comment": "Params: component - used in odriscolls1 and sean1 R* SP Script: COMPONENT_BINOCULARS_SCOPE01\nTriggers the binocular scaleform",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "component"
                 }
             ],
@@ -29795,11 +29795,11 @@
             "comment": "effectName2, p2 and p3 are unused\n\nANIMPOSTFX_*",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName2"
                 },
                 {
@@ -29975,7 +29975,7 @@
             "comment": "Used in CREATE_BEZIER_BLOOD_TRAIL_OF_TYPE",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -29993,11 +29993,11 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 },
                 {
@@ -30357,7 +30357,7 @@
             "comment": "ANIMPOSTFX_*",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 }
             ],
@@ -30389,7 +30389,7 @@
             "comment": "ANIMPOSTFX_*",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 }
             ],
@@ -30705,7 +30705,7 @@
             "comment": "ANIMPOSTFX_*",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -30740,7 +30740,7 @@
             "comment": "R* Script spd_agnesdow1: p0 = SPD_AGNES_DOWD_01",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -30999,7 +30999,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 }
             ],
@@ -31013,7 +31013,7 @@
             "comment": "Known effects: MP_Trans_SceneToPhoto\nMP_Trans_WinLose\nSpectateFilter\nMP_CharacterCreatorPhoto\nMP_Trans_PhotoToScene\nInterrogationHit",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 }
             ],
@@ -31027,7 +31027,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 }
             ],
@@ -31055,7 +31055,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 }
             ],
@@ -31083,7 +31083,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -31101,7 +31101,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 }
             ],
@@ -31129,7 +31129,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -31163,7 +31163,7 @@
             "comment": "Health Core Effect Filter Potency: p1 = 1\nStamina Core Effect Filter Potency: p1 = 2\nMultiple Core Effect Filter Potency: p1 = 3",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -31185,7 +31185,7 @@
             "comment": "must be called after ANIMPOSTFX_PLAY, strength 0.0f - 1.0f",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -31203,7 +31203,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 }
             ],
@@ -31231,7 +31231,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 }
             ],
@@ -31263,7 +31263,7 @@
             "comment": "p1: 0.3f in R* Scripts",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "waypointRecording"
                 },
                 {
@@ -31430,11 +31430,11 @@
                     "name": "rotate"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "textureDict"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "textureName"
                 },
                 {
@@ -31668,7 +31668,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "texture"
                 },
                 {
@@ -31825,7 +31825,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -32131,7 +32131,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -32173,7 +32173,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -32187,7 +32187,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "effectName"
                 },
                 {
@@ -32299,7 +32299,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "username"
                 },
                 {
@@ -32311,7 +32311,7 @@
                     "name": "isRockstarClan"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "clanTag"
                 },
                 {
@@ -32358,7 +32358,7 @@
             "comment": "Checks if the passed gxt name exists in the game files.",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "label"
                 }
             ],
@@ -32374,7 +32374,7 @@
             "comment": "Note: you must use VAR_STRING. Byte code very similar to TEXT_COMMAND_DISPLAY_TEXT in V\nOld name: _GET_TEXT_SUBSTRING",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "text"
                 },
                 {
@@ -32386,7 +32386,7 @@
                     "name": "length"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "gta_hash": "0x169BD9382084C8C0",
             "gta_jhash": "0x34A396EE",
@@ -32398,11 +32398,11 @@
             "comment": "Gets a string literal from a label name.\n\nOld name: _GET_LABEL_TEXT",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "labelName"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "gta_hash": "0x7B5280EBA9840C72",
             "gta_jhash": "0x95C4B5AD",
@@ -32446,7 +32446,7 @@
             "comment": "Returns the length of the string passed (much like strlen).",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "string"
                 }
             ],
@@ -32462,7 +32462,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "string"
                 }
             ],
@@ -32478,7 +32478,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -32498,7 +32498,7 @@
                     "name": "labelHash"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -32573,7 +32573,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -32658,7 +32658,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -32678,7 +32678,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -32730,7 +32730,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -32750,7 +32750,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -32770,7 +32770,7 @@
                     "name": "gamerTagId"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "string"
                 }
             ],
@@ -32790,7 +32790,7 @@
                     "name": "gamerTagId"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "string"
                 }
             ],
@@ -32822,7 +32822,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "textBlock"
                 }
             ],
@@ -32836,7 +32836,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "textBlock"
                 }
             ],
@@ -33108,7 +33108,7 @@
                     "name": "volume"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 },
                 {
@@ -33206,19 +33206,19 @@
                     "name": "active"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "string1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "string2"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "string3"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "string4"
                 }
             ],
@@ -33260,7 +33260,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "text"
                 }
             ],
@@ -33278,7 +33278,7 @@
                     "name": "player"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "username"
                 },
                 {
@@ -33290,7 +33290,7 @@
                     "name": "isRockstarClan"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "clanTag"
                 },
                 {
@@ -33312,7 +33312,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "text"
                 }
             ],
@@ -33349,7 +33349,7 @@
             "comment": "nullsub, this native does nothing since build 1436, use _BG_DISPLAY_TEXT (0x16794E044C9EFB58) instead.",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "text"
                 },
                 {
@@ -33372,7 +33372,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "textDatabase"
                 }
             ],
@@ -33453,11 +33453,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "label"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -33467,7 +33467,7 @@
             "comment": "Similar to 0x9D7E12EC6A1EE4E5(GET_TEXT_SUBSTRING) but starts at the beginning of the string",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "text"
                 },
                 {
@@ -33475,7 +33475,7 @@
                     "name": "length"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -33690,7 +33690,7 @@
                     "name": "gamerTagId"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "text"
                 }
             ],
@@ -33849,7 +33849,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "textBlock"
                 }
             ],
@@ -33863,7 +33863,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "textBlock"
                 }
             ],
@@ -34006,7 +34006,7 @@
                     "name": "inputHash"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "labelName"
                 },
                 {
@@ -34513,7 +34513,7 @@
                     "name": "hash"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -34581,7 +34581,7 @@
                     "name": "p4"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -35288,7 +35288,7 @@
                     "name": "prompt"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "text"
                 }
             ],
@@ -35555,7 +35555,7 @@
                     "name": "interior"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "entitySetName"
                 },
                 {
@@ -35606,7 +35606,7 @@
                     "name": "interior"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "entitySetName"
                 },
                 {
@@ -35726,7 +35726,7 @@
                     "name": "z"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "interiorType"
                 }
             ],
@@ -35901,7 +35901,7 @@
                     "name": "interior"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "entitySetName"
                 }
             ],
@@ -36096,7 +36096,7 @@
                     "name": "interior"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "entitySetName"
                 }
             ],
@@ -36323,7 +36323,7 @@
                     "name": "data"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "stats"
                 },
                 {
@@ -36504,7 +36504,7 @@
                     "name": "entryId"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -36530,7 +36530,7 @@
                     "name": "entryId"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -36814,7 +36814,7 @@
                     "name": "inventoryId"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "filterName"
                 },
                 {
@@ -40068,7 +40068,7 @@
             "comment": "Only used in sisikapenitentiary R* Script: name = SISIKA\n_IS_G* or _IS_H*",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -40552,7 +40552,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -41138,7 +41138,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -41152,7 +41152,7 @@
             "comment": "Returns true when investigation creation was successful",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "guardZoneName"
                 },
                 {
@@ -41208,7 +41208,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -41389,7 +41389,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -41520,7 +41520,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -41546,7 +41546,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -41572,7 +41572,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -41590,7 +41590,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -41608,7 +41608,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -44096,11 +44096,11 @@
             "comment": "nullsub, doesn't do anything",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -44116,7 +44116,7 @@
             "comment": "nullsub, doesn't do anything",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -44132,7 +44132,7 @@
             "comment": "nullsub, doesn't do anything",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -45013,13 +45013,17 @@
                 {
                     "type": "float",
                     "name": "z"
+                },
+                {
+                    "type": "float*",
+                    "name": "groundZ"
+                },
+                {
+                    "type": "Vector3*",
+                    "name": "normal"
                 }
             ],
-            "return_type": [
-                "BOOL",
-                "float",
-                "Vector3"
-            ],
+            "return_type": "BOOL",
             "build": "1207",
             "gta_hash": "0x8BDC7BFC57A81E76",
             "gta_jhash": "0x64D91CED",
@@ -45043,14 +45047,15 @@
                     "name": "z"
                 },
                 {
+                    "type": "float*",
+                    "name": "groundZ"
+                },
+                {
                     "type": "BOOL",
                     "name": "p4"
                 }
             ],
-            "return_type": [
-                "BOOL",
-                "float"
-            ],
+            "return_type": "BOOL",
             "build": "1207",
             "gta_hash": "0xC906A7DAB05C8D2B",
             "gta_jhash": "0xA1BFD5E0",
@@ -45221,7 +45226,7 @@
             "name": "GET_ONSCREEN_KEYBOARD_RESULT",
             "comment": "Returns NULL unless UPDATE_ONSCREEN_KEYBOARD() returns 1 in the same tick.",
             "params": [],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "gta_hash": "0x8362B09B91893647",
             "gta_jhash": "0x44828FB3",
@@ -45502,7 +45507,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -45965,7 +45970,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "string"
                 }
             ],
@@ -45981,7 +45986,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "string"
                 }
             ],
@@ -45997,7 +46002,7 @@
             "comment": "Returns true if the entire string consists only of space characters.",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "string"
                 }
             ],
@@ -46113,7 +46118,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "text"
                 },
                 {
@@ -46851,7 +46856,7 @@
             "comment": "Returns false if it's a null or empty string or if the string is too long. outInteger will be set to -999 in that case.",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "string"
                 },
                 {
@@ -46931,7 +46936,7 @@
                     "name": "..."
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "variadic": true,
             "examples": [],
@@ -47060,7 +47065,7 @@
             "comment": "_SET_MISSION_NAME_*(FOR_ACTIVITY?/MINIGAME?)",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -48104,7 +48109,7 @@
             "name": "_0xF81C53561D15F330",
             "comment": "",
             "params": [],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -48245,7 +48250,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "weatherType"
                 },
                 {
@@ -48299,7 +48304,7 @@
                     "name": "rgb"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -48654,7 +48659,7 @@
                     "name": "value"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -48672,7 +48677,7 @@
                     "name": "digits"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -48694,7 +48699,7 @@
                     "name": "z"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -48758,7 +48763,7 @@
                     "name": "value"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "format"
                 },
                 {
@@ -49483,7 +49488,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "timecycleName"
                 }
             ],
@@ -49517,7 +49522,7 @@
             "name": "_0xA46FD001D1BE896C",
             "comment": "",
             "params": [],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "unused": true,
             "examples": [],
@@ -49577,7 +49582,7 @@
             "name": "_NETWORK_GET_STRING_CASH_BALANCE",
             "comment": "",
             "params": [],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "unused": true,
             "examples": [],
@@ -50243,11 +50248,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "paramName"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -50826,7 +50831,7 @@
                     "name": "gamerHandle"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "message"
                 }
             ],
@@ -51487,7 +51492,7 @@
                     "name": "gamerHandle"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "unused": true,
             "gta_hash": "0x426141162EBE5CDB",
@@ -51572,7 +51577,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "scriptName"
                 },
                 {
@@ -51734,7 +51739,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "scriptName"
                 },
                 {
@@ -52616,7 +52621,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "scriptName"
                 },
                 {
@@ -54170,7 +54175,7 @@
                     "name": "textureDownloadId"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "gta_hash": "0x3448505B6E35262D",
             "gta_jhash": "0xA40EF65A",
@@ -54202,11 +54207,11 @@
                     "name": "gamerHandle"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "filePath"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -54278,7 +54283,7 @@
                     "name": "length"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "gta_hash": "0x40F7E66472DF3E5C",
             "gta_jhash": "0x70A2845C",
@@ -54455,11 +54460,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "contentTypeName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "contentId"
                 },
                 {
@@ -54928,7 +54933,7 @@
             "comment": "nullsub, doesn't do anything",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -55273,7 +55278,7 @@
                     "name": "gamerHandle"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "message"
                 }
             ],
@@ -56361,7 +56366,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
@@ -56587,7 +56592,7 @@
                     "name": "p0"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -56610,7 +56615,7 @@
                     "name": "p0"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -56800,7 +56805,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "paramName"
                 }
             ],
@@ -56832,7 +56837,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "paramName"
                 }
             ],
@@ -56845,7 +56850,7 @@
             "name": "_GET_LAUNCH_PARAM_STRING",
             "comment": "",
             "params": [],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -56980,7 +56985,7 @@
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -57321,7 +57326,7 @@
                     "name": "gamerHandle"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -57450,7 +57455,7 @@
             "name": "_NETWORK_GET_ROS_TITLE_NAME",
             "comment": "Returns CGameConfig->ConfigOnlineServices->RosTitleName (see gameconfig.xml)",
             "params": [],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -57639,7 +57644,7 @@
             "comment": "Returns false if pedshot push failed",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "texture"
                 },
                 {
@@ -57665,7 +57670,7 @@
             "comment": "Returns false if pedshot push failed",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "texture"
                 },
                 {
@@ -57733,7 +57738,7 @@
                     "name": "gamerHandle"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "contentId"
                 },
                 {
@@ -58216,11 +58221,11 @@
                     "name": "reportType"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "description"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "horseName"
                 }
             ],
@@ -58242,7 +58247,7 @@
                     "name": "personaPhotoLocalCacheType"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -58260,7 +58265,7 @@
                     "name": "p1"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -58278,7 +58283,7 @@
                     "name": "p1"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -58338,7 +58343,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "params"
                 }
             ],
@@ -58353,11 +58358,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "paramName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "value"
                 }
             ],
@@ -58443,7 +58448,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -58457,7 +58462,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -58480,7 +58485,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "contentId"
                 }
             ],
@@ -58506,7 +58511,7 @@
                     "name": "maxGet"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "contentTypeName"
                 },
                 {
@@ -58528,7 +58533,7 @@
             "comment": "Returns ugcRequestId",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "contentId"
                 },
                 {
@@ -58536,7 +58541,7 @@
                     "name": "latestVersion"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "contentTypeName"
                 }
             ],
@@ -58558,7 +58563,7 @@
                     "name": "maxGet"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "contentTypeName"
                 },
                 {
@@ -58636,7 +58641,7 @@
                     "name": "p2"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -58712,7 +58717,7 @@
                     "name": "index"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -58730,7 +58735,7 @@
                     "name": "index"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -58748,7 +58753,7 @@
                     "name": "index"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -58842,7 +58847,7 @@
                     "name": "index"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -59308,7 +59313,7 @@
             "comment": "Deletes the specified object, then sets the handle pointed to by the pointer to NULL.",
             "params": [
                 {
-                    "type": "Object",
+                    "type": "Object*",
                     "name": "object"
                 }
             ],
@@ -59756,7 +59761,7 @@
                     "name": "radius"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -61186,7 +61191,7 @@
                     "name": "object"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -62668,7 +62673,7 @@
             "comment": "rumbleCurve: common_0/data/rumblecurves.meta",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "rumbleCurve"
                 },
                 {
@@ -64187,7 +64192,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -64319,7 +64324,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
@@ -64585,7 +64590,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -64603,7 +64608,7 @@
                     "name": "vehicle"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "navMeshName"
                 }
             ],
@@ -65650,7 +65655,7 @@
             "comment": "Deletes the specified ped, then sets the handle pointed to by the pointer to NULL.",
             "params": [
                 {
-                    "type": "Ped",
+                    "type": "Ped*",
                     "name": "ped"
                 }
             ],
@@ -73542,7 +73547,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -73560,7 +73565,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -73980,7 +73985,7 @@
                     "name": "zRot"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "damagePack"
                 }
             ],
@@ -75720,7 +75725,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -77123,11 +77128,11 @@
                     "name": "object"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animName"
                 }
             ],
@@ -77725,7 +77730,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -77953,7 +77958,7 @@
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 },
                 {
@@ -78293,7 +78298,7 @@
                     "name": "p8"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p9"
                 }
             ],
@@ -79953,7 +79958,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 }
             ],
@@ -79971,7 +79976,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 }
             ],
@@ -79989,7 +79994,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 }
             ],
@@ -80367,7 +80372,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propName"
                 },
                 {
@@ -80798,15 +80803,15 @@
                     "name": "object"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "conditionalAnim"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p3"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p4"
                 },
                 {
@@ -80832,11 +80837,11 @@
                     "name": "object"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p3"
                 },
                 {
@@ -80918,7 +80923,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -81532,7 +81537,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "presetName"
                 },
                 {
@@ -81742,7 +81747,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 }
             ],
@@ -81760,7 +81765,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 }
             ],
@@ -81778,7 +81783,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 }
             ],
@@ -81796,7 +81801,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 }
             ],
@@ -81814,7 +81819,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -81872,7 +81877,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propName"
                 }
             ],
@@ -82068,7 +82073,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -82112,7 +82117,7 @@
                     "name": "object"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 },
                 {
@@ -82120,7 +82125,7 @@
                     "name": "scenarioType"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p4"
                 },
                 {
@@ -82142,7 +82147,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "getUpType"
                 }
             ],
@@ -83182,7 +83187,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "locomotionArchetype"
                 }
             ],
@@ -86206,7 +86211,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "int",
+                    "type": "int*",
                     "name": "ropeId"
                 }
             ],
@@ -88112,7 +88117,7 @@
                     "name": "player"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "gta_hash": "0x6D0DE6A7B5DA71F8",
             "gta_jhash": "0x406B4B20",
@@ -88264,7 +88269,7 @@
                     "name": "ped"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -92770,7 +92775,7 @@
                     "name": "string"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -97050,7 +97055,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 }
             ],
@@ -97068,7 +97073,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 }
             ],
@@ -97086,7 +97091,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 }
             ],
@@ -97104,7 +97109,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 }
             ],
@@ -97122,7 +97127,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 }
             ],
@@ -97140,7 +97145,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 }
             ],
@@ -97158,7 +97163,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 }
             ],
@@ -97214,7 +97219,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "params"
                 }
             ],
@@ -97232,7 +97237,7 @@
                     "name": "scriptIndex"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -97249,7 +97254,7 @@
             "comment": "Deletes the given context from the background scripts context map.",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "contextName"
                 }
             ],
@@ -97287,7 +97292,7 @@
                     "name": "scriptIndex"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -97345,7 +97350,7 @@
             "comment": "Inserts the given context into the background scripts context map.",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "contextName"
                 }
             ],
@@ -97824,7 +97829,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "scriptName"
                 }
             ],
@@ -97867,7 +97872,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "scriptName"
                 },
                 {
@@ -97887,7 +97892,7 @@
             "comment": "return : script thread id, 0 if failed\nPass pointer to struct of args in p1, size of struct goes into p2",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "scriptName"
                 },
                 {
@@ -98120,15 +98125,15 @@
                     "name": "p3"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p4"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p5"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p6"
                 },
                 {
@@ -98415,15 +98420,15 @@
                     "name": "p2"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "gamemodeName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "title"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "subtitle"
                 }
             ],
@@ -98610,7 +98615,7 @@
                     "name": "netRpcGuid"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1311",
             "examples": [],
             "apiset": ""
@@ -99158,7 +99163,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -99187,7 +99192,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -99204,7 +99209,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
@@ -99229,7 +99234,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -99250,7 +99255,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
@@ -99258,7 +99263,7 @@
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 }
             ],
@@ -99275,7 +99280,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
@@ -99300,7 +99305,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -99321,7 +99326,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
@@ -99329,7 +99334,7 @@
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 }
             ],
@@ -99346,7 +99351,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
@@ -99371,7 +99376,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 },
                 {
@@ -99392,7 +99397,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
@@ -99400,7 +99405,7 @@
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 }
             ],
@@ -99446,7 +99451,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -99558,7 +99563,7 @@
                     "name": "p0"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "unused": true,
             "gta_hash": "0xF3E31D16CBDCB304",
@@ -99654,11 +99659,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "attrName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "value"
                 },
                 {
@@ -100440,7 +100445,7 @@
                     "name": "statId"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "label"
                 },
                 {
@@ -100719,7 +100724,7 @@
             "name": "_0x3F6FD87D2030ADC6",
             "comment": "",
             "params": [],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -100974,7 +100979,7 @@
                     "name": "p1"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -104215,7 +104220,7 @@
                     "name": "ped"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "gta_hash": "0x717E4D1F2048376D",
             "gta_jhash": "0x96C0277B",
@@ -112065,7 +112070,7 @@
                     "name": "scenario"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "conditionalAnim"
                 },
                 {
@@ -114383,7 +114388,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "waypointRecording"
                 },
                 {
@@ -119456,7 +119461,7 @@
                     "name": "type"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "contentId"
                 }
             ],
@@ -122351,7 +122356,7 @@
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 }
             ],
@@ -122534,7 +122539,7 @@
                     "name": "p2"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p3"
                 },
                 {
@@ -122568,11 +122573,11 @@
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p3"
                 },
                 {
@@ -122616,7 +122621,7 @@
             "name": "_UILOG_GET_CACHED_OBJECTIVE",
             "comment": "",
             "params": [],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -122657,7 +122662,7 @@
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -122683,7 +122688,7 @@
                     "name": "p2"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p3"
                 }
             ],
@@ -122752,7 +122757,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 }
             ],
@@ -122889,11 +122894,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p0"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -122935,7 +122940,7 @@
                     "name": "hash"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -123686,7 +123691,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "Vehicle",
+                    "type": "Vehicle*",
                     "name": "train"
                 }
             ],
@@ -123702,7 +123707,7 @@
             "comment": "Deletes a vehicle.\nThe vehicle must be a mission entity to delete, so call this before deleting: SET_ENTITY_AS_MISSION_ENTITY(vehicle, true, true);\n\neg how to use:\nSET_ENTITY_AS_MISSION_ENTITY(vehicle, true, true);\nDELETE_VEHICLE(&vehicle);\n\nDeletes the specified vehicle, then sets the handle pointed to by the pointer to NULL.",
             "params": [
                 {
-                    "type": "Vehicle",
+                    "type": "Vehicle*",
                     "name": "vehicle"
                 }
             ],
@@ -135842,6 +135847,20 @@
             "examples": [],
             "apiset": "client"
         },
+        "0xEC97101A8F311282": {
+            "name": "_0xEC97101A8F311282",
+            "comment": "",
+            "params": [
+                {
+                    "type": "Any",
+                    "name": "p0"
+                }
+            ],
+            "return_type": "Any",
+            "build": "1207",
+            "examples": [],
+            "apiset": ""
+        },
         "0xECBB26529A737EF6": {
             "name": "_0xECBB26529A737EF6",
             "comment": "",
@@ -136314,20 +136333,6 @@
             "examples": [],
             "apiset": ""
         },
-        "0xEC97101A8F311282": {
-            "name": "_GET_DEFAULT_WEAPON_AMMO_TYPE",
-            "comment": "Returns the default ammo type for a weapon",
-            "params": [
-                {
-                    "type": "Hash",
-                    "name": "weaponHash"
-                }
-            ],
-            "return_type": "Hash",
-            "build": "1207",
-            "examples": [],
-            "apiset": "client"
-        },
         "0x79B1A6E780266DB0": {
             "name": "_GET_MAX_LOCKON_DISTANCE_OF_CURRENT_PED_WEAPON",
             "comment": "",
@@ -136619,7 +136624,7 @@
                     "name": "weaponHash"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -136633,7 +136638,7 @@
                     "name": "weaponHash"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -136651,7 +136656,7 @@
                     "name": "permanentDegradationLevel"
                 }
             ],
-            "return_type": "char*",
+            "return_type": "const char*",
             "build": "1207",
             "examples": [],
             "apiset": ""
