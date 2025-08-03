@@ -4,7 +4,7 @@
         "comment": "",
         "params": [
             {
-                "type": "Vehicle*",
+                "type": "const Vehicle*",
                 "name": "vehicle"
             }
         ],
