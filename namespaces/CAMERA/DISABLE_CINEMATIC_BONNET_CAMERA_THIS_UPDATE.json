@@ -4,7 +4,6 @@
         "comment": "Old name: _DISABLE_VEHICLE_FIRST_PERSON_CAM_THIS_FRAME",
         "params": [],
         "return_type": "void",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

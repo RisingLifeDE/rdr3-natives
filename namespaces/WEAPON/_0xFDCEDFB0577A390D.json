@@ -13,7 +13,6 @@
             }
         ],
         "return_type": "Any",
-        "build": "unknown",
-        "examples": []
+        "build": "unknown"
     }
 }

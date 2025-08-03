@@ -4,7 +4,6 @@
         "comment": "Base year is 1898.",
         "params": [],
         "return_type": "int",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

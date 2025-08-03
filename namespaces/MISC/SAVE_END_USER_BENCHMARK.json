@@ -4,7 +4,6 @@
         "comment": "Saves the benchmark recording to %USERPROFILE%\\Documents\\Rockstar Games\\Red Dead Redemption 2\\Benchmarks and submits some metrics.\n\nOld name: _SAVE_BENCHMARK_RECORDING",
         "params": [],
         "return_type": "void",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

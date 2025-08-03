@@ -17,7 +17,6 @@
             }
         ],
         "return_type": "Player",
-        "build": "1436",
-        "examples": []
+        "build": "1436"
     }
 }

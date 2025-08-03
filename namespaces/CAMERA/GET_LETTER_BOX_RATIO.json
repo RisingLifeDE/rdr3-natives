@@ -4,7 +4,6 @@
         "comment": "More info: see HAS_LETTER_BOX",
         "params": [],
         "return_type": "float",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

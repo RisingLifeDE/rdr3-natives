@@ -4,7 +4,6 @@
         "comment": "Removes the loading prompt at the bottom right of the screen.",
         "params": [],
         "return_type": "void",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

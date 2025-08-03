@@ -4,7 +4,6 @@
         "comment": "_PERSISTENCE_*",
         "params": [],
         "return_type": "void",
-        "build": "1232",
-        "examples": []
+        "build": "1232"
     }
 }

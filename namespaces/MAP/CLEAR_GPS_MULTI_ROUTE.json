@@ -4,7 +4,6 @@
         "comment": "Does the same as SET_GPS_MULTI_ROUTE_RENDER(false);",
         "params": [],
         "return_type": "void",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

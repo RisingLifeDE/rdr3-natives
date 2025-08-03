@@ -4,7 +4,6 @@
         "comment": "0 = succeeded\n1 = getting status\n2 = failed",
         "params": [],
         "return_type": "int",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

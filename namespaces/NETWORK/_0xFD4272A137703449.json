@@ -4,7 +4,6 @@
         "comment": "Only used in R* Script startup_clip Seems to just kill the network connection, sets the players coords to 0, 0, 0 when doing GetEntityCoords",
         "params": [],
         "return_type": "void",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

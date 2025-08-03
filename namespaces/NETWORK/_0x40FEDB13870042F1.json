@@ -4,7 +4,6 @@
         "comment": "Note: this native was added in build 1355.30",
         "params": [],
         "return_type": "void",
-        "build": "1355",
-        "examples": []
+        "build": "1355"
     }
 }

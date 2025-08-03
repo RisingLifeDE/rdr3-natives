@@ -4,7 +4,6 @@
         "comment": "Zooms in the gameplay camera to the next zoom level?\nUSE_* - WAS_*",
         "params": [],
         "return_type": "void",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

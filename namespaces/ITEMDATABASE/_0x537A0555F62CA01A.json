@@ -13,7 +13,6 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "1436",
-        "examples": []
+        "build": "1436"
     }
 }

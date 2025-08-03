@@ -4,7 +4,6 @@
         "comment": "Creation of the metric is related to attribute filling, i. e. at camp fires, when the ped is resting.\n_TELEMETRY_C* - _TELEMETRY_P*",
         "params": [],
         "return_type": "void",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

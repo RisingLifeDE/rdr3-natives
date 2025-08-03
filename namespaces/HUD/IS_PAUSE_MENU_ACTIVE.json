@@ -4,7 +4,6 @@
         "comment": "Returns true when either Pause Menu, a Frontend Menu, Online Policies menu or Social Club menu is active.",
         "params": [],
         "return_type": "BOOL",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

@@ -25,7 +25,6 @@
             }
         ],
         "return_type": "Blip",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

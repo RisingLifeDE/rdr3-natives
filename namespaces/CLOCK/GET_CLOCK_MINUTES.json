@@ -4,7 +4,6 @@
         "comment": "Gets the current ingame clock minute.",
         "params": [],
         "return_type": "int",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

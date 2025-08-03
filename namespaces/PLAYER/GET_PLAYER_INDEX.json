@@ -4,7 +4,6 @@
         "comment": "Returns the same as PLAYER_ID and NETWORK_PLAYER_ID_TO_INT",
         "params": [],
         "return_type": "Player",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

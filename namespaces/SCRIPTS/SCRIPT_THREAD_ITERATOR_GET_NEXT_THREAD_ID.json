@@ -4,7 +4,6 @@
         "comment": "If the function returns 0, the end of the iteration has been reached.",
         "params": [],
         "return_type": "int",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

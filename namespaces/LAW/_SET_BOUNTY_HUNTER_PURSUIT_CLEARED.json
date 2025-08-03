@@ -4,7 +4,6 @@
         "comment": "Force clears local player's wanted level",
         "params": [],
         "return_type": "void",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

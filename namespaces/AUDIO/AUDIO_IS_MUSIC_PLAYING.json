@@ -4,7 +4,6 @@
         "comment": "Old name: AUDIO_IS_SCRIPTED_MUSIC_PLAYING",
         "params": [],
         "return_type": "BOOL",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

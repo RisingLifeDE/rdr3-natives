@@ -9,7 +9,6 @@
             }
         ],
         "return_type": "ItemSet",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

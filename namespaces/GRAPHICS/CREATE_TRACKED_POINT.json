@@ -4,7 +4,6 @@
         "comment": "Creates a tracked point, useful for checking the visibility of a 3D point on screen.",
         "params": [],
         "return_type": "int",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

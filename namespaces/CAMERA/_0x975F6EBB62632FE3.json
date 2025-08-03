@@ -4,7 +4,6 @@
         "comment": "_IS_SCRIPTED_S*",
         "params": [],
         "return_type": "BOOL",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

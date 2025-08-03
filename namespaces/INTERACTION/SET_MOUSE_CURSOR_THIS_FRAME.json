@@ -4,7 +4,6 @@
         "comment": "Shows the cursor on screen for one frame.\n\nOld name: _SET_MOUSE_CURSOR_ACTIVE_THIS_FRAME",
         "params": [],
         "return_type": "void",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

@@ -4,7 +4,6 @@
         "comment": "Hardcoded to return false.\nChecks for PS4 Game Build.",
         "params": [],
         "return_type": "BOOL",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

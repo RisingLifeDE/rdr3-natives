@@ -4,7 +4,6 @@
         "comment": "Returns whether the game's measurement system is set to metric.",
         "params": [],
         "return_type": "BOOL",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

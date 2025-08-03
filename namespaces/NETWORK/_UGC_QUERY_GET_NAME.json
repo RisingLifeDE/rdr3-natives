@@ -13,7 +13,6 @@
             }
         ],
         "return_type": "const char*",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

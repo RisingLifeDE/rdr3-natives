@@ -4,7 +4,6 @@
         "comment": "More info: https://en.wikipedia.org/wiki/Letterboxing_(filming)",
         "params": [],
         "return_type": "BOOL",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

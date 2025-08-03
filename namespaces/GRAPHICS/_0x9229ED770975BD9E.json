@@ -4,7 +4,6 @@
         "comment": "Resets the exposure to the value when exposure lock was enabled",
         "params": [],
         "return_type": "void",
-        "build": "1311",
-        "examples": []
+        "build": "1311"
     }
 }

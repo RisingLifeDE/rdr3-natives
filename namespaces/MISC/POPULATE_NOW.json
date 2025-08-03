@@ -4,7 +4,6 @@
         "comment": "spawns a few distant/out-of-sight peds, vehicles, animals etc each time it is called",
         "params": [],
         "return_type": "void",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

@@ -9,7 +9,6 @@
             }
         ],
         "return_type": "int",
-        "build": "unknown",
-        "examples": []
+        "build": "unknown"
     }
 }

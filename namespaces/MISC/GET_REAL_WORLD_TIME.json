@@ -4,7 +4,6 @@
         "comment": "Returns GET_GAME_TIMER() / 1000\nOnly used in rcm_pearson1.ysc",
         "params": [],
         "return_type": "int",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

@@ -4,7 +4,6 @@
         "comment": "Always returns 40",
         "params": [],
         "return_type": "int",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

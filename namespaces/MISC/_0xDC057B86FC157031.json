@@ -4,7 +4,6 @@
         "comment": "Hardcoded to return one/true.",
         "params": [],
         "return_type": "Any",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

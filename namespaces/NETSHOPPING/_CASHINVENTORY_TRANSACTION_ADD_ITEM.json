@@ -17,7 +17,6 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "unknown",
-        "examples": []
+        "build": "unknown"
     }
 }

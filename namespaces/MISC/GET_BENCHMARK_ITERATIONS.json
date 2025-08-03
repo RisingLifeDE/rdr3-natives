@@ -4,7 +4,6 @@
         "comment": "Returns value of the '-benchmarkIterations' command line option.\n\nOld name: _GET_BENCHMARK_ITERATIONS_FROM_COMMAND_LINE",
         "params": [],
         "return_type": "int",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

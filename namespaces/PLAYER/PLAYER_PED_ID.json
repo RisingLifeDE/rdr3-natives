@@ -4,7 +4,6 @@
         "comment": "Returns current player ped",
         "params": [],
         "return_type": "Ped",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

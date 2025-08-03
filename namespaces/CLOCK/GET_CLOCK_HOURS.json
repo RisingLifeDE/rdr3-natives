@@ -4,7 +4,6 @@
         "comment": "Gets the current ingame hour, expressed without zeros. (09:34 will be represented as 9)",
         "params": [],
         "return_type": "int",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

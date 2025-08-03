@@ -17,7 +17,6 @@
             }
         ],
         "return_type": "Vehicle",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

@@ -4,7 +4,6 @@
         "comment": "Old name: _GET_BENCHMARK_TIME",
         "params": [],
         "return_type": "float",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

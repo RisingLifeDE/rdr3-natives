@@ -9,7 +9,6 @@
             }
         ],
         "return_type": "void",
-        "build": "unknown",
-        "examples": []
+        "build": "unknown"
     }
 }

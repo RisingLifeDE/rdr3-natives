@@ -4,7 +4,6 @@
         "comment": "Only used in R* Script camera_photomode",
         "params": [],
         "return_type": "BOOL",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

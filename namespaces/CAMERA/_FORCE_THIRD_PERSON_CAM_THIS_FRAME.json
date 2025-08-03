@@ -4,7 +4,6 @@
         "comment": "Forces camera position to second furthest 3rd person",
         "params": [],
         "return_type": "void",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

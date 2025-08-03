@@ -4,7 +4,6 @@
         "comment": "Returns true if player is moving mouse while cursor is active\n_PI* - _PO*",
         "params": [],
         "return_type": "BOOL",
-        "build": "1311",
-        "examples": []
+        "build": "1311"
     }
 }

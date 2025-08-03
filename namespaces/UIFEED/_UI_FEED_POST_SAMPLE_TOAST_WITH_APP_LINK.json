@@ -25,7 +25,6 @@
             }
         ],
         "return_type": "int",
-        "build": "1311",
-        "examples": []
+        "build": "1311"
     }
 }

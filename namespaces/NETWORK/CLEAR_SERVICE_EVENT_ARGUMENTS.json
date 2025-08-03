@@ -4,7 +4,6 @@
         "comment": "Old name: _CLEAR_LAUNCH_PARAMS",
         "params": [],
         "return_type": "void",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

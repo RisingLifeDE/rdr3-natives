@@ -45,7 +45,6 @@
             }
         ],
         "return_type": "Cam",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

@@ -4,7 +4,6 @@
         "comment": "Called before starting a new thread_monitor script thread in startup_mp/startup_tlg\nAlternative name _REGISTER_SCRIPT_BRAIN\n\nOld name: _PREPARE_SCRIPT_BRAIN",
         "params": [],
         "return_type": "void",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

@@ -4,7 +4,6 @@
         "comment": "Checks for session flag 'SF_PRIVATE'",
         "params": [],
         "return_type": "BOOL",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

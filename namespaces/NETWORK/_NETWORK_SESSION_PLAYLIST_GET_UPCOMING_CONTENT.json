@@ -4,7 +4,6 @@
         "comment": "Only used in R* Script net_rolling_playlist",
         "params": [],
         "return_type": "void",
-        "build": "1436",
-        "examples": []
+        "build": "1436"
     }
 }

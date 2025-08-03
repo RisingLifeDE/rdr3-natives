@@ -45,7 +45,6 @@
             }
         ],
         "return_type": "void",
-        "build": "1311",
-        "examples": []
+        "build": "1311"
     }
 }

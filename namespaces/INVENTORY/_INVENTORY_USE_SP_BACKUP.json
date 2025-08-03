@@ -4,7 +4,6 @@
         "comment": "old name _INVENTORY_USE_SP_BACKUP",
         "params": [],
         "return_type": "BOOL",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

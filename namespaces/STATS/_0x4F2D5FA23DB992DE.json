@@ -4,7 +4,6 @@
         "comment": "Only used in R* Script net_char_creator",
         "params": [],
         "return_type": "void",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

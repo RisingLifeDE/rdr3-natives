@@ -4,7 +4,6 @@
         "comment": "Old name: _ALLOW_PAUSE_MENU_WHEN_DEAD_THIS_FRAME",
         "params": [],
         "return_type": "void",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }

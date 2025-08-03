@@ -4,7 +4,6 @@
         "comment": "Called together with REPORT_POLICE_SPOTTED_PLAYER",
         "params": [],
         "return_type": "void",
-        "build": "1207",
-        "examples": []
+        "build": "1207"
     }
 }
