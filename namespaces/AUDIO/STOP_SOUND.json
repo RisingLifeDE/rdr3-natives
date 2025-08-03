@@ -1,7 +1,7 @@
 {
     "0x3210BCB36AF7621B": {
-       "name": "STOP_SOUND",
-		"comment": "Old Name: _STOP_SOUND_WITH_ID",
+        "name": "STOP_SOUND",
+        "comment": "Old Name: _STOP_SOUND_WITH_ID",
         "params": [
             {
                 "type": "int",

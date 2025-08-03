@@ -15,11 +15,10 @@
         "return_type": "Any",
         "build": "1207",
         "examples": [
-              {
+            {
                 "lang": "lua",
                 "code": "local x,y = _GET_WAYPOINT_POSITION(Citizen.PointerValueFloat(),Citizen.PointerValueFloat())"
             }
-            
         ]
     }
 }

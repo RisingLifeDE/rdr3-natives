@@ -4,8 +4,8 @@
         "comment": "",
         "params": [
             {
-             	"type": "Hash",
-				"name": "persCharHash"
+                "type": "Hash",
+                "name": "persCharHash"
             }
         ],
         "return_type": "Hash",

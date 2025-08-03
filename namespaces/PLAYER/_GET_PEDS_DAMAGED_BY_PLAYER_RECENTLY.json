@@ -21,7 +21,7 @@
         "examples": [
             {
                 "lang": "lua",
-                "code" : "Citizen.InvokeNative(0x1A6E84F13C952094, PlayerId(), 10000, dataView:Buffer())\nlocal entity = dataView:GetInt32(8 * 1)\nlocal entity2 = dataView:GetInt32(8 * 2)\nlocal entity3 = dataView:GetInt32(8 * 3)\nprint(entity, entity2, entity3)"
+                "code": "Citizen.InvokeNative(0x1A6E84F13C952094, PlayerId(), 10000, dataView:Buffer())\nlocal entity = dataView:GetInt32(8 * 1)\nlocal entity2 = dataView:GetInt32(8 * 2)\nlocal entity3 = dataView:GetInt32(8 * 3)\nprint(entity, entity2, entity3)"
             }
         ]
     }

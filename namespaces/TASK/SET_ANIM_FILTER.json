@@ -2,24 +2,24 @@
     "0x87B66D77D545DB66": {
         "name": "SET_ANIM_FILTER",
         "comment": "",
-       "params": [
-				{
-					"type": "Entity",
-					"name": "entity"
-				},
-				{
-					"type": "char*",
-					"name": "filterName"
-				},
-				{
-					"type": "int",
-					"name": "priority"
-				},
-				{
-					"type": "BOOL",
-					"name": "secondary"
-				}
-			],
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "char*",
+                "name": "filterName"
+            },
+            {
+                "type": "int",
+                "name": "priority"
+            },
+            {
+                "type": "BOOL",
+                "name": "secondary"
+            }
+        ],
         "return_type": "void",
         "build": "1207"
     }

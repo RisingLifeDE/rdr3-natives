@@ -1,7 +1,7 @@
 {
     "0x75DF9E73F2F005FD": {
-       "name": "GET_ENTITY_CAN_BE_DAMAGED",
-		"comment": "Old name: _GET_ENTITY_CAN_BE_DAMAGED",
+        "name": "GET_ENTITY_CAN_BE_DAMAGED",
+        "comment": "Old name: _GET_ENTITY_CAN_BE_DAMAGED",
         "params": [
             {
                 "type": "Entity",

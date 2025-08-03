@@ -1,0 +1,18 @@
+{
+    "0xFF83AF534156B399": {
+        "name": "SET_ENTITY_CAN_ONLY_BE_DAMAGED_BY_SCRIPT_PARTICIPANTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "EntityIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "bOnlyDamagedWhenRunningScript"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

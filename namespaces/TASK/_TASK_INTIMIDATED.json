@@ -8,8 +8,8 @@
                 "name": "p0"
             },
             {
-             	"type": "Ped",
-				"name": "ped"
+                "type": "Ped",
+                "name": "ped"
             },
             {
                 "type": "Any",

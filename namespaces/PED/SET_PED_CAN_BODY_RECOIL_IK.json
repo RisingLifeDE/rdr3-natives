@@ -1,0 +1,18 @@
+{
+    "0xEE9DF765990E8D1D": {
+        "name": "SET_PED_CAN_BODY_RECOIL_IK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "PedIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "bEnableIK"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}
