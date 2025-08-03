@@ -1,7 +1,7 @@
 {
     "0x58425FCA3D3A2D15": {
         "name": "_GET_WEAPON_HAS_MULTIPLE_AMMO_TYPES",
-        "comment": "Returns whether the weapon has multiple ammo types or not.",
+        "comment": "Example: https://imgur.com/a/fCaPJ1x",
         "params": [
             {
                 "type": "Hash",

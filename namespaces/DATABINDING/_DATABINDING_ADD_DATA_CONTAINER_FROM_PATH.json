@@ -12,7 +12,7 @@
                 "name": "p1"
             }
         ],
-        "return_type": "Any",
+        "return_type": "Hash",
         "build": "1207"
     }
 }

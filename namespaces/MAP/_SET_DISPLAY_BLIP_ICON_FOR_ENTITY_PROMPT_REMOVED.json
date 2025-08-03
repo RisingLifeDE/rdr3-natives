@@ -1,7 +1,7 @@
 {
     "0xBB68D4D3CA3DE402": {
-        "name": "_REMOVE_BLIP_ICON_FROM_ENTITY_LOCKON_PROMPT",
-        "comment": "\nin the decompiles this doesnt seem to ever be executed the param needed needs to be above 0 but its always passed as 0\n removes the icon from lockon prompt",
+        "name": "_SET_DISPLAY_BLIP_ICON_FOR_ENTITY_PROMPT_REMOVED",
+        "comment": "Removes the icon from the lockon prompt. Never executed in R* Scripts due to hardcoded 0.",
         "params": [
             {
                 "type": "Entity",

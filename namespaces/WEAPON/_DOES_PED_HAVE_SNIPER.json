@@ -1,14 +1,14 @@
 {
     "0x80BB243789008A82": {
         "name": "_DOES_PED_HAVE_SNIPER",
-        "comment": "Returns whether the ped has a sniper p1: 0 or 1",
+        "comment": "",
         "params": [
             {
                 "type": "Ped",
                 "name": "ped"
             },
             {
-                "type": "int",
+                "type": "BOOL",
                 "name": "p1"
             }
         ],

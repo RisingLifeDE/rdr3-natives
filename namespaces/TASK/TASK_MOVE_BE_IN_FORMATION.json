@@ -12,19 +12,19 @@
                 "name": "p1"
             },
             {
-                "type": "Any",
+                "type": "float",
                 "name": "p2"
             },
             {
-                "type": "Any",
+                "type": "float",
                 "name": "p3"
             },
             {
-                "type": "Any",
+                "type": "float",
                 "name": "p4"
             },
             {
-                "type": "Any",
+                "type": "float",
                 "name": "p5"
             },
             {

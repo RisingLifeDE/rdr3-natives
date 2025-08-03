@@ -1,14 +1,14 @@
 {
     "0xC67A4910425F11F1": {
         "name": "_DISABLE_PLAYER_INTERACTIVE_FOCUS_PRESET",
-        "comment": "Disables the previously set interactive focus mode preset for a given player. see `_SET_PLAYER_INTERACTIVE_FOCUS_PRESET - 0x3C1B1807C7A415D6`",
+        "comment": "Disables the previously set \"interactive focus mode preset\" for a given player.\nExample usage:\nPLAYER::_DISABLE_PLAYER_INTERACTIVE_FOCUS_PRESET(Player::PLAYER_ID(), \"qadr_\");\n\nThis example disables the preset named \"qadr_\" for the current player, effectively removing the previously established interactive focus mode.\nRefer to `_ADD_AMBIENT_PLAYER_INTERACTIVE_FOCUS_PRESET(0x3946FC742AC305CD)` to understand how presets are added.\nVideo: https://imgur.com/gallery/0x3946fc742ac305cd-1uJIRNr",
         "params": [
             {
                 "type": "Player",
                 "name": "player"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "name"
             }
         ],

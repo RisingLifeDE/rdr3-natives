@@ -40,11 +40,11 @@
                 "name": "ent2Z"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "boneName1"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "boneName2"
             }
         ],

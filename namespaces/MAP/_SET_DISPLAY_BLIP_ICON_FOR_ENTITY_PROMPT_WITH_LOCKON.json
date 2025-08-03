@@ -1,7 +1,7 @@
 {
     "0x7563CBCA99253D1A": {
-        "name": "_SET_BLIP_ICON_TO_LOCKON_ENTITY_PROMPT",
-        "comment": "will add a blip icon to the entity lockon prompt that you specify",
+        "name": "_SET_DISPLAY_BLIP_ICON_FOR_ENTITY_PROMPT_WITH_LOCKON",
+        "comment": "Sets the blip icon to lockon entity prompt.",
         "params": [
             {
                 "type": "Entity",

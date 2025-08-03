@@ -1,0 +1,22 @@
+{
+    "0x806862E5D266CF38": {
+        "name": "_GET_TEXT_SUBSTRING_3",
+        "comment": "_GET_BOUNTY* - _GET_CHARACTER*",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "text"
+            },
+            {
+                "type": "int",
+                "name": "begin"
+            },
+            {
+                "type": "int",
+                "name": "length"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

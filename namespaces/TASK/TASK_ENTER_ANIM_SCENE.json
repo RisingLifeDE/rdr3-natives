@@ -12,11 +12,11 @@
                 "name": "animScene"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "entityName"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "playbackListName"
             },
             {

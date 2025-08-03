@@ -1,0 +1,14 @@
+{
+    "0xA4454592DCF7C992": {
+        "name": "_IS_ENTITY_BEING_DAMAGED_BY_FIRE",
+        "comment": "Returns true if entity is being damaged by fire, once damage caused to entity by fire (like burned appearance) has cleared over time, the native returns false.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

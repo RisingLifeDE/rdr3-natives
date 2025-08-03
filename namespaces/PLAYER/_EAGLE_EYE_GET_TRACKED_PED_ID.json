@@ -1,14 +1,14 @@
 {
     "0x3813E11A378958A5": {
         "name": "_EAGLE_EYE_GET_TRACKED_PED_ID",
-        "comment": "Retrieves the ID of the ped that the specified player is currently tracking while in Eagle Eye mode.",
+        "comment": "Retrieves the ID of the ped that the specified player is currently tracking while in Eagle Eye mode.\nImages:\n- https://imgur.com/gallery/0x3813e11a378958a5-CHoJVRu\n- https://imgur.com/gallery/0x3813e11a378958a5-reK5IXt",
         "params": [
             {
                 "type": "Player",
                 "name": "player"
             }
         ],
-        "return_type": "int",
+        "return_type": "Ped",
         "build": "1207"
     }
 }

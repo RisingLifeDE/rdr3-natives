@@ -1,7 +1,7 @@
 {
     "0x648B75D44930D6BD": {
         "name": "_TASK_INTIMIDATED",
-        "comment": "",
+        "comment": "Only used in R* SP Script homeinvasion:\nParams p2, p3, p4: 0, 0, 1",
         "params": [
             {
                 "type": "Any",

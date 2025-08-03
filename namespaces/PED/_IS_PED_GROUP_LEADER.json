@@ -1,6 +1,6 @@
 {
     "0x878B68960C1C2A35": {
-        "name": "IS_PED_GROUP_LEADER",
+        "name": "_IS_PED_GROUP_LEADER",
         "comment": "",
         "params": [
             {

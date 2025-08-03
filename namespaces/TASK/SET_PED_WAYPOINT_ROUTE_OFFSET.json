@@ -20,7 +20,7 @@
                 "name": "p3"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207"
     }
 }

@@ -1,0 +1,14 @@
+{
+    "0x0501D52D24EA8934": {
+        "name": "_HUD_CHECK_CLOSEST_HORSE",
+        "comment": "Returns closest horse entity handle (about 3 meters; facing, directly riding, etc).\nMaybe when horse hud interaction prompts are allowed to show (?)\n\nParams: p0 is usually true, if its false the native returns the players ped handle (?)\n\n_HIDE_* - _IGNORE_*",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

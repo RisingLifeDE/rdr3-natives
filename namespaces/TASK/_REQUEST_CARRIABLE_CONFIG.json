@@ -1,0 +1,14 @@
+{
+    "0xFF745B0346E19E2C": {
+        "name": "_REQUEST_CARRIABLE_CONFIG",
+        "comment": "Config: https://gist.github.com/WesternGamer/95a1f8daf02520cad2bf96af6d957e70",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "config"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

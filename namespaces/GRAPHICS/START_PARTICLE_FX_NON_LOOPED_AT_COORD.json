@@ -36,16 +36,16 @@
                 "name": "scale"
             },
             {
-                "type": "int",
-                "name": "eventType"
+                "type": "BOOL",
+                "name": "xAxis"
             },
             {
                 "type": "BOOL",
-                "name": "bPeekOnly"
+                "name": "yAxis"
             },
             {
                 "type": "BOOL",
-                "name": "bIsRegistered"
+                "name": "zAxis"
             }
         ],
         "return_type": "BOOL",

@@ -1,14 +1,14 @@
 {
     "0x495A04CAEC263AF8": {
         "name": "_DOES_PED_HAVE_REPEATER",
-        "comment": "Returns whether the ped has a repeater p1: 0 or 1",
+        "comment": "",
         "params": [
             {
                 "type": "Ped",
                 "name": "ped"
             },
             {
-                "type": "int",
+                "type": "BOOL",
                 "name": "p1"
             }
         ],

@@ -1,7 +1,7 @@
 {
     "0x08E22898A6AF4905": {
         "name": "_0x08E22898A6AF4905",
-        "comment": "_SET_PLAYER_*? some multiplier or modifier for health or statmina ?",
+        "comment": "_SET_PLAYER_*? some multiplier or modifier for health or statmina?",
         "params": [
             {
                 "type": "Player",

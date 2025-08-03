@@ -8,7 +8,7 @@
                 "name": "scenarioPoint"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "name"
             }
         ],

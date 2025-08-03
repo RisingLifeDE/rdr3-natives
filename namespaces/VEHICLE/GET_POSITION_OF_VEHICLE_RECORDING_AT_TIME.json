@@ -12,7 +12,7 @@
                 "name": "time"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "script"
             }
         ],

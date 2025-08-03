@@ -12,7 +12,7 @@
                 "name": "trailerNumber"
             }
         ],
-        "return_type": "Entity",
+        "return_type": "Vehicle",
         "build": "1207"
     }
 }

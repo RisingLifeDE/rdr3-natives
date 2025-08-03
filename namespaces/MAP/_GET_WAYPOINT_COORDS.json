@@ -1,7 +1,7 @@
 {
     "0x29B30D07C3F7873B": {
         "name": "_GET_WAYPOINT_COORDS",
-        "comment": "",
+        "comment": "Note: Z coordinate will always be zero",
         "params": [],
         "return_type": "Vector3",
         "build": "1207"

@@ -1,7 +1,7 @@
 {
     "0x58D32261AE0F0843": {
         "name": "_APPLY_PED_DAMAGE_PACK_TO_BONE",
-        "comment": "seems to only work with PD_Vomit ? ",
+        "comment": "Applies damage pack to a ped bone with offset and rotation.\nNote: for boneId only PD_Vomit seems to work.\n\nPreview: https://imgur.com/a/qwEGXEu",
         "params": [
             {
                 "type": "Ped",

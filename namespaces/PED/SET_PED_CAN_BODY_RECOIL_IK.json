@@ -5,11 +5,11 @@
         "params": [
             {
                 "type": "Ped",
-                "name": "PedIndex"
+                "name": "ped"
             },
             {
                 "type": "BOOL",
-                "name": "bEnableIK"
+                "name": "toggle"
             }
         ],
         "return_type": "void",

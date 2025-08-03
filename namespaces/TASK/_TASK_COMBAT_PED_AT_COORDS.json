@@ -1,7 +1,7 @@
 {
     "0xC624414FA748B9BA": {
         "name": "_TASK_COMBAT_PED_AT_COORDS",
-        "comment": "Coords: volume coords used in R* Script smuggler2\np4/p5 = 0 in R* Scripts previous name TASK_COMBAT_PED_3",
+        "comment": "Coords: volume coords used in R* Script smuggler2\np4/p5 = 0 in R* Scripts",
         "params": [
             {
                 "type": "Ped",

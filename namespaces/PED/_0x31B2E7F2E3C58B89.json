@@ -1,7 +1,7 @@
 {
     "0x31B2E7F2E3C58B89": {
         "name": "_0x31B2E7F2E3C58B89",
-        "comment": "_GET_SHOP_ITEM_NUM_*? returns a number of ? p1 seems to be always joaat(\"base\") ",
+        "comment": "_GET_SHOP_ITEM_NUM_*? returns a number of ? p1 seems to be always joaat(\"base\")",
         "params": [
             {
                 "type": "Hash",

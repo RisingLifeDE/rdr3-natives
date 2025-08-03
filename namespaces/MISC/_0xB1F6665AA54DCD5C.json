@@ -4,7 +4,7 @@
         "comment": "",
         "params": [
             {
-                "type": "Hash",
+                "type": "Any",
                 "name": "p0"
             }
         ],

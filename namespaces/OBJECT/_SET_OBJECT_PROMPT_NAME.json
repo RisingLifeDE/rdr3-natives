@@ -1,7 +1,7 @@
 {
     "0xAEE6C800E124CFE1": {
         "name": "_SET_OBJECT_PROMPT_NAME",
-        "comment": "Not official native name",
+        "comment": "_SET_FORCE* - _SET_LOCAL*",
         "params": [
             {
                 "type": "Object",

@@ -9,12 +9,6 @@
             }
         ],
         "return_type": "void",
-        "build": "1207",
-        "examples": [
-            {
-                "lang": "lua",
-                "code": "if IsUiappActiveByHash(`abilities`) then\r\n   CloseUiappByHash(`abilities`)\r\nend"
-            }
-        ]
+        "build": "1207"
     }
 }

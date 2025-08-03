@@ -1,14 +1,14 @@
 {
     "0x5B235F24472F2C3B": {
         "name": "_DOES_PED_HAVE_REVOLVER",
-        "comment": "Returns whether the ped has a revolver p1: 0 or 1",
+        "comment": "Preview: https://imgur.com/a/U8Q04Xu",
         "params": [
             {
                 "type": "Ped",
                 "name": "ped"
             },
             {
-                "type": "int",
+                "type": "BOOL",
                 "name": "p1"
             }
         ],

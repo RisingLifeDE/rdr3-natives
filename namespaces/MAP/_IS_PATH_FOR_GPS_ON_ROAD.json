@@ -1,0 +1,9 @@
+{
+    "0xF47A1EB2A538A3A3": {
+        "name": "_IS_PATH_FOR_GPS_ON_ROAD",
+        "comment": "Checks if the GPS route to the waypoint is navigable along a road.\nIf a route exists but there is no valid road path, this function returns false.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

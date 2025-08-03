@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "waypointRecording"
             },
             {
-                "type": "int",
+                "type": "int*",
                 "name": "points"
             }
         ],

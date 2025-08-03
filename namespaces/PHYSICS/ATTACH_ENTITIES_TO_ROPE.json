@@ -52,11 +52,11 @@
                 "name": "alwaysZero2"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "boneName1"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "boneName2"
             },
             {

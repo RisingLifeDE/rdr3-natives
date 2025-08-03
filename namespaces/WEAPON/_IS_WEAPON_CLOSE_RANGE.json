@@ -1,7 +1,7 @@
 {
     "0xEA522F991E120D45": {
         "name": "_IS_WEAPON_CLOSE_RANGE",
-        "comment": "_IS_WEAPON_CLOSE_RANGE?\nreturns true when it's lassos , melee, thrown weapons (matchetes and unarmed return false)\nall guns ,bows and animal weapons return false",
+        "comment": "Returns true for lassos, melee, thrown weapons (machetes and unarmed return false)\nReturns false for all guns, bows and animal weapons\n_IS_WEAPON_S* - _IS_WEAPON_V*",
         "params": [
             {
                 "type": "Hash",

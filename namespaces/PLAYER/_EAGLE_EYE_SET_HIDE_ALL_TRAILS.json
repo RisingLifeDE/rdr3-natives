@@ -1,7 +1,7 @@
 {
     "0x330CA55A3647FA1C": {
         "name": "_EAGLE_EYE_SET_HIDE_ALL_TRAILS",
-        "comment": "Sets whether all trails are hidden during Eagle Eye mode.",
+        "comment": "Sets whether all trails are hidden during Eagle Eye mode.\nExample usage:\nHide all trails in Eagle Eye mode for the current player\nPLAYER::_EAGLE_EYE_SET_HIDE_ALL_TRAILS(PLAYER::PLAYER_ID(), true);\n\nShow all trails in Eagle Eye mode\nPLAYER::_EAGLE_EYE_SET_HIDE_ALL_TRAILS(PLAYER::PLAYER_ID(), false);\nImages:\n- https://imgur.com/gallery/0x330ca55a3647fa1c-0xa62bbaae67a05bb0-Lpzt2Yi\n- https://imgur.com/gallery/0x330ca55a3647fa1c-0xa62bbaae67a05bb0-yLA6GBk",
         "params": [
             {
                 "type": "Player",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "BOOL",
-                "name": "hide"
+                "name": "hideTrails"
             }
         ],
         "return_type": "void",

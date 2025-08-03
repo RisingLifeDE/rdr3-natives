@@ -25,12 +25,6 @@
             }
         ],
         "return_type": "Hash",
-        "build": "1207",
-        "examples": [
-            {
-                "lang": "lua",
-                "code": "local ped = PlayerPedId()\nlocal numComponent = GetNumComponentsInPed(ped)\nfor index = 0, numComponent -1 do\n\tlocal componentHash,_,wearableState = GetShopItemComponentAtIndex(ped, index, true, Citizen.ResultAsInteger(), Citizen.ResultAsInteger())\n\tprint('Index:',index,'Hash:',componentHash,'wearable state:', wearableState)\nend"
-            }
-        ]
+        "build": "1207"
     }
 }

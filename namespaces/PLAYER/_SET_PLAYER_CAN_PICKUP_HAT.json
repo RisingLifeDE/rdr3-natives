@@ -1,7 +1,7 @@
 {
     "0xACA45DDCEF6071C4": {
         "name": "_SET_PLAYER_CAN_PICKUP_HAT",
-        "comment": "Enables or disables the Pick Up prompt for a hat on the ground for the specified player. When set to true, the player will see a prompt to pick up the hat if they are near it.",
+        "comment": "Enables or disables the \"Pick Up\" prompt for a hat on the ground for the specified player. When set to true, the player will see a prompt to pick up the hat if they are near it.\nVideo: https://imgur.com/gallery/0xaca45ddcef6071c4-dzlnm8Z",
         "params": [
             {
                 "type": "Player",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "BOOL",
-                "name": "canPickup"
+                "name": "enable"
             }
         ],
         "return_type": "void",

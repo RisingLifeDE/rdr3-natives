@@ -44,7 +44,7 @@
                 "name": "scaleZ"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "name"
             }
         ],

@@ -1,14 +1,14 @@
 {
     "0xABC18A28BAD4B46F": {
         "name": "_DOES_PED_HAVE_SHOTGUN",
-        "comment": "Returns whether the ped has a shotgun p1: 0 or 1",
+        "comment": "",
         "params": [
             {
                 "type": "Ped",
                 "name": "ped"
             },
             {
-                "type": "int",
+                "type": "BOOL",
                 "name": "p1"
             }
         ],

@@ -1,10 +1,10 @@
 {
     "0x9EEFD670F10656D7": {
         "name": "_GET_WEAPON_FROM_DEFAULT_PED_WEAPON_COLLECTION",
-        "comment": "this native gets the weapon hash from the default ped weapon collection (see GetDefaultPedWeaponCollection for more info) will randomly return one of it's weapons",
+        "comment": "Returns a random weaponHash from default ped weapon collection (see _GET_DEFAULT_PED_WEAPON_COLLECTION).",
         "params": [
             {
-                "type": "int",
+                "type": "Hash",
                 "name": "weaponCollection"
             },
             {
@@ -13,12 +13,6 @@
             }
         ],
         "return_type": "Hash",
-        "build": "1207",
-        "examples": [
-            {
-                "lang": "lua",
-                "code": "local pedWeaponCollectionHash = GetDefaultPedWeaponCollection(joaat(\"mp_u_m_m_interrogator_01\"))\nlocal hash = Citizen.InvokeNative(0x9EEFD670F10656D7, pedWeaponCollectionHash, joaat(\"GROUP_REVOLVER\"))\nif hash and IsWeaponValid(hash) then\nlocal name = GetWeaponName(hash)\nlocal label = GetLabelText_2(name)\nprint(name, label)\nend"
-            }
-        ]
+        "build": "1207"
     }
 }

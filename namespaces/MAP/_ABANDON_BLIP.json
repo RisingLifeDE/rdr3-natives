@@ -1,7 +1,7 @@
 {
     "0xDEEDE7C41742E011": {
         "name": "_ABANDON_BLIP",
-        "comment": "It's unclear what exactly this does, but I assume it marks the blip as \"no longer needed\"",
+        "comment": "Not sure what exactly this does, but it calls rage::fwuiBlip::ClearScriptIdentity() internally",
         "params": [
             {
                 "type": "Blip",

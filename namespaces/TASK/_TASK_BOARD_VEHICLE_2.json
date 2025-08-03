@@ -12,16 +12,16 @@
                 "name": "p1"
             },
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p2"
             },
             {
                 "type": "float",
-                "name": "p3"
+                "name": "speed"
             },
             {
                 "type": "int",
-                "name": "flags"
+                "name": "boardingFlags"
             }
         ],
         "return_type": "void",

@@ -16,11 +16,11 @@
                 "name": "getupSetHash"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "p3"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "p4"
             },
             {

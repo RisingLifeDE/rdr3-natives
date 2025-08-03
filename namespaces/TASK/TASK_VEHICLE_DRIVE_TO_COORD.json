@@ -28,8 +28,8 @@
                 "name": "speed"
             },
             {
-                "type": "Any",
-                "name": "style"
+                "type": "int",
+                "name": "drivingStyle"
             },
             {
                 "type": "Hash",

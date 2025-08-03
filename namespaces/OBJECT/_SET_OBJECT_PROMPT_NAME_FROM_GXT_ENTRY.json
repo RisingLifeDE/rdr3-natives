@@ -1,7 +1,7 @@
 {
     "0xD503D6F0986D58BC": {
         "name": "_SET_OBJECT_PROMPT_NAME_FROM_GXT_ENTRY",
-        "comment": "Not official native name",
+        "comment": "_SET_FORCE* - _SET_LOCAL*",
         "params": [
             {
                 "type": "Object",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "Hash",
-                "name": "gxtEntryHash"
+                "name": "name"
             }
         ],
         "return_type": "void",

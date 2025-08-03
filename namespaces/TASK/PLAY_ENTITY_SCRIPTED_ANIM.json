@@ -8,7 +8,7 @@
                 "name": "entity"
             },
             {
-                "type": "Any",
+                "type": "Any*",
                 "name": "args"
             }
         ],

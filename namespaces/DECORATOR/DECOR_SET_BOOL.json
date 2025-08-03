@@ -1,7 +1,7 @@
 {
     "0xFE26E4609B1C3772": {
         "name": "DECOR_SET_BOOL",
-        "comment": "This function sets metadata of type bool to specified entity.\n",
+        "comment": "This function sets metadata of type bool to specified entity.",
         "params": [
             {
                 "type": "Entity",

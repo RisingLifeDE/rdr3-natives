@@ -8,11 +8,11 @@
                 "name": "ped"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "variableName"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "value"
             },
             {

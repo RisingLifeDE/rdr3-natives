@@ -1,7 +1,7 @@
 {
     "0x34AE85C7CA4857AA": {
         "name": "_ADD_EXPLOSION_WITH_USER_VFX_AND_DAMAGE_CAUSER",
-        "comment": "Add explosion with vfx and assign an entity as damage causer.\nexplosionType: https://github.com/femga/rdr3_discoveries/blob/master/graphics/explosions/README.md\nexplosionFx: https://github.com/femga/rdr3_discoveries/blob/master/graphics/explosions/explosion_vfxTags.lua",
+        "comment": "Adds an explosion with vfx and entity as damage causer.\nexplosionFx: see ADD_EXPLOSION_WITH_USER_VFX\n_A* - _ADD_D*",
         "params": [
             {
                 "type": "Entity",

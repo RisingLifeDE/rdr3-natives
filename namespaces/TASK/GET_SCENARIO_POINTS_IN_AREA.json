@@ -20,7 +20,7 @@
                 "name": "radius"
             },
             {
-                "type": "Any",
+                "type": "Any*",
                 "name": "scenariosInRadius"
             },
             {

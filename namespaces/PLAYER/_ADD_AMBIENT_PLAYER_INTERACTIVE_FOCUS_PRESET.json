@@ -1,7 +1,7 @@
 {
     "0x3946FC742AC305CD": {
         "name": "_ADD_AMBIENT_PLAYER_INTERACTIVE_FOCUS_PRESET",
-        "comment": "Associates a specific interactive focus mode preset between a player and a ped, with a specified location and target entity.\nTo access all available presets, refer to the file located at: `/update_1.rpf/common/data/interactive_focus_mode_presets.meta`",
+        "comment": "Associates a specific \"interactive focus mode preset\" between a player and a ped, with a specified location and target entity.\nTo access all available presets, refer to the file located at:\n`\\update_1.rpf\\common\\data\\interactive_focus_mode_presets.meta`\nVideo: https://imgur.com/gallery/0x3946fc742ac305cd-1uJIRNr",
         "params": [
             {
                 "type": "Player",
@@ -12,7 +12,7 @@
                 "name": "ped"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "preset"
             },
             {
@@ -32,7 +32,7 @@
                 "name": "targetEntity"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "name"
             }
         ],

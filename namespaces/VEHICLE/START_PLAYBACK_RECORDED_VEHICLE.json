@@ -12,7 +12,7 @@
                 "name": "recording"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "script"
             },
             {

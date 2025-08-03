@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "Any",
+                "type": "BOOL",
                 "name": "p0"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207"
     }
 }

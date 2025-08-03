@@ -1,7 +1,7 @@
 {
     "0x53BA259F3A67A99E": {
         "name": "ADD_EXPLOSION_WITH_USER_VFX",
-        "comment": "explosionType: see ADD_EXPLOSION\nChange explosionFx (Visual Effect) for specified explosionType",
+        "comment": "Changes explosionFx (Visual Effect) for specified explosionType\nexplosionType: see ADD_EXPLOSION\nexplosionFx: https://github.com/femga/rdr3_discoveries/blob/master/graphics/explosions/explosion_vfxTags.lua",
         "params": [
             {
                 "type": "float",

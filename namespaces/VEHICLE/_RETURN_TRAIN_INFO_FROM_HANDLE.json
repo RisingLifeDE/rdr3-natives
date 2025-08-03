@@ -17,12 +17,6 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "1207",
-        "examples": [
-            {
-                "lang": "lua",
-                "code": "local trainTrack, junctionIndex = Citizen.InvokeNative(0x09034479E6E3E269, train, Citizen.PointerValueInt(), Citizen.PointerValueInt())"
-            }
-        ]
+        "build": "1207"
     }
 }

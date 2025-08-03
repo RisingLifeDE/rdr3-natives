@@ -1,7 +1,7 @@
 {
     "0xE92261BD28C0878F": {
         "name": "_GET_DEADEYE_ABILITY_DEPLETION_DELAY",
-        "comment": "Returns the depletion delay value for the Deadeye ability that was previously set using `SetDeadeyeAbilityDepletionDelay - 0x870634493CB4372C`",
+        "comment": "Returns the depletion delay value for the Deadeye ability that was previously set using `PLAYER::_SET_DEADEYE_ABILITY_DEPLETION_DELAY` (0x870634493CB4372C). This function provides a float value representing the delay, allowing the game to retrieve the current Deadeye depletion setting for a specific player.\n\nExample usage:\n\nfloat depletionDelay = PLAYER::_GET_DEADEYE_ABILITY_DEPLETION_DELAY(PLAYER::PLAYER_ID());\nVideo: https://imgur.com/gallery/0xe92261bd28c0878f-TAqX0fg",
         "params": [
             {
                 "type": "Player",

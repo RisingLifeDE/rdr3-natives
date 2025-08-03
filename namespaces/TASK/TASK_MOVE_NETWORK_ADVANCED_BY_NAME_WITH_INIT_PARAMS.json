@@ -8,11 +8,11 @@
                 "name": "ped"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "moveNetworkDefName"
             },
             {
-                "type": "Any",
+                "type": "Any*",
                 "name": "taskData"
             },
             {

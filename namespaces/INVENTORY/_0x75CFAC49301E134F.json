@@ -1,7 +1,7 @@
 {
     "0x75CFAC49301E134F": {
         "name": "_0x75CFAC49301E134F",
-        "comment": "p1, p2: 0",
+        "comment": "p0: value returned by 0x9D21B185ABC2DBC4\np1, p2: false",
         "params": [
             {
                 "type": "Hash",

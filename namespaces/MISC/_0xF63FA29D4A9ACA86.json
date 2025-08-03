@@ -4,12 +4,12 @@
         "comment": "",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "const char*",
+                "name": "string"
             }
         ],
         "return_type": "void",

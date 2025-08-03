@@ -1,0 +1,18 @@
+{
+    "0xCE285A4413B00B7F": {
+        "name": "_EAGLE_EYE_SET_PLUS_FLAG_DISABLED",
+        "comment": "Sets the behavior of sprinting while the eagle eye feature is active, determining whether sprinting cancels the effect based on the specified parameter.\ndisabled = true: sprinting will cancel the eagle eye effect when active. If the player starts sprinting, the Eagleeye feature will be deactivated.\ndisabled = false: sprinting will not cancel the eagle eye effect. The player can sprint while keeping the Eagleeye feature active.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "disabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

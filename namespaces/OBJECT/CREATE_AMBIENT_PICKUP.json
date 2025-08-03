@@ -25,23 +25,23 @@
             },
             {
                 "type": "int",
-                "name": "value"
+                "name": "amount"
             },
             {
                 "type": "Hash",
-                "name": "modelHash"
+                "name": "customModel"
             },
             {
                 "type": "BOOL",
-                "name": "p7"
+                "name": "createAsScriptObject"
             },
             {
                 "type": "BOOL",
-                "name": "p8"
+                "name": "scriptHostObject"
             },
             {
                 "type": "int",
-                "name": "p9"
+                "name": "customAmmoType"
             },
             {
                 "type": "float",

@@ -9,7 +9,7 @@
             },
             {
                 "type": "int",
-                "name": "bitflag"
+                "name": "flag"
             }
         ],
         "return_type": "void",

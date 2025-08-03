@@ -1,14 +1,14 @@
 {
     "0x06C3DB00B69D5435": {
         "name": "_SET_PLAYER_PROMPT_LEAVE_TEXT",
-        "comment": "Sets the stand prompt for a specific player using a predefined text entry. use AddTextEntry for promptTextKey for custom names",
+        "comment": "Sets the stand prompt for a specific player using a predefined text entry.\nExample usage:\nPLAYER::_SET_PLAYER_PROMPT_LEAVE_TEXT(PLAYER::PLAYER_ID(), MISC::VAR_STRING(10, \"LITERAL_STRING\", \"Get on your feet\"));\nThe prompt for player to stand uses this text.\nScreenshot: https://imgur.com/gallery/rdrnative-kscnRlF",
         "params": [
             {
                 "type": "Player",
                 "name": "player"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "promptTextKey"
             }
         ],

@@ -4,11 +4,11 @@
         "comment": "https://github.com/femga/rdr3_discoveries/blob/master/weather/weather_variations.lua",
         "params": [
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "weatherType"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "variation"
             }
         ],

@@ -8,7 +8,7 @@
                 "name": "ped"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "moveNetworkDefName"
             },
             {
@@ -24,7 +24,7 @@
                 "name": "p4"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "animDict"
             },
             {

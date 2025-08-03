@@ -1,7 +1,7 @@
 {
     "0xE143FA2249364369": {
         "name": "GET_CLOSEST_OBJECT_OF_TYPE",
-        "comment": "Returns the closest object of a specified type within a given radius from a specified position",
+        "comment": "missionScriptObject - if true won't return mission script objects\nscriptHostObject - if true won't return script host objects\nnetworkObject - if true won't return networked objects",
         "params": [
             {
                 "type": "float",

@@ -5,7 +5,7 @@
         "params": [
             {
                 "type": "BOOL",
-                "name": "lock"
+                "name": "locked"
             }
         ],
         "return_type": "void",

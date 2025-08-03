@@ -8,7 +8,7 @@
                 "name": "scenario"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "propName"
             }
         ],

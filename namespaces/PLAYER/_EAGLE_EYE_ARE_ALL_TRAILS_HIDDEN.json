@@ -1,7 +1,7 @@
 {
     "0xA62BBAAE67A05BB0": {
         "name": "_EAGLE_EYE_ARE_ALL_TRAILS_HIDDEN",
-        "comment": "Retrieves whether all trails are currently hidden during Eagle Eye mode for the specified player.",
+        "comment": "Retrieves whether all trails are currently hidden during Eagle Eye mode for the specified player.\nImages:\n- https://imgur.com/gallery/0x330ca55a3647fa1c-0xa62bbaae67a05bb0-Lpzt2Yi\n- https://imgur.com/gallery/0x330ca55a3647fa1c-0xa62bbaae67a05bb0-yLA6GBk",
         "params": [
             {
                 "type": "Player",

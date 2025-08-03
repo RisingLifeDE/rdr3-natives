@@ -1,7 +1,7 @@
 {
     "0xA0C683284DF027C7": {
         "name": "_SET_PLAYER_HAT_ACCESS",
-        "comment": "Sets the player's ability to wear hats based on the specified flag. The flag value determines whether the player can wear all hats or only the ones they own.\nIf the flag is set to 15 and `allow` is true, the player can wear all available hats. However, if you want to restrict the player to wearing only their owned hats (flag 1), you **must first** disable flag 15 by setting it to false, and then set flag 1 to true.",
+        "comment": "Sets the player's ability to wear hats based on the specified flag. The flag value determines whether the player can wear all hats or only the ones they own.\n\nIf the flag is set to 15 and `allow` is true, the player can wear all available hats. To restrict the player to wearing only owned hats (flag 1), you must first disable flag 15 by setting it to false, then set flag 1 to true.\n\nExample usage:\n\nAllow the player to wear all hats\nPLAYER::_SET_PLAYER_HAT_ACCESS(PLAYER::PLAYER_ID(), 15, true);\n\nRestrict the player to only wearing owned hats\nPLAYER::_SET_PLAYER_HAT_ACCESS(PLAYER::PLAYER_ID(), 15, false);\nPLAYER::_SET_PLAYER_HAT_ACCESS(PLAYER::PLAYER_ID(), 1, true);\n\nVideo: https://imgur.com/gallery/0xa0c683284df027c7-dhV5NAL",
         "params": [
             {
                 "type": "Player",
@@ -13,7 +13,7 @@
             },
             {
                 "type": "BOOL",
-                "name": "allow"
+                "name": "enable"
             }
         ],
         "return_type": "void",

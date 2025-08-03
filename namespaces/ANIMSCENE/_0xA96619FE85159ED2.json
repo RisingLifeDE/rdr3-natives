@@ -1,7 +1,7 @@
 {
     "0xA96619FE85159ED2": {
         "name": "_0xA96619FE85159ED2",
-        "comment": "Used in SP R* Scripts only\n_WAS_ANIM_SCENE_*",
+        "comment": "Checks if AnimScene is aborted, and an unknown check.\nUsed in SP R* Scripts only\n_WAS_ANIM_SCENE_*",
         "params": [
             {
                 "type": "AnimScene",

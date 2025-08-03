@@ -1,7 +1,7 @@
 {
     "0xCFFC3ECCD7A5CCEB": {
         "name": "_SET_PLAYER_AIM_WEAPON",
-        "comment": "Sets the weapon that the specified player will aim with. The weapon must already be assigned to the PED. This also determines the weapon order, specifying which weapon the player will automatically switch to when the current weapon runs out of ammo.",
+        "comment": "Sets the weapon that the specified player will aim with. The weapon must already be assigned to the PED. This also determines the weapon order, specifying which weapon the player will automatically switch to when the current weapon runs out of ammo.\nExample usage:\n\nSet the player's aim weapon to the specified weapon hash in slot 0\nPLAYER::_SET_PLAYER_AIM_WEAPON(PLAYER::PLAYER_ID(), GetHashKey(\"WEAPON_RIFLE_VARMINT\"), 0);\n\nVideo: https://youtu.be/-fUMrLIm9ng",
         "params": [
             {
                 "type": "Player",
@@ -13,7 +13,7 @@
             },
             {
                 "type": "int",
-                "name": "attachSlotId"
+                "name": "weaponDrawOrder"
             }
         ],
         "return_type": "void",

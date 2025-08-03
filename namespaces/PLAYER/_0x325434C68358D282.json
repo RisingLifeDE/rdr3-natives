@@ -1,7 +1,7 @@
 {
     "0x325434C68358D282": {
         "name": "_0x325434C68358D282",
-        "comment": "Only used in script function UPDATE_PLAYER_JUST_DIED_STATE",
+        "comment": "Only used in script function UPDATE_PLAYER_JUST_DIED_STATE\nThe value passed to this native in the scripts is whether a global UGC mission is active or not",
         "params": [
             {
                 "type": "BOOL",

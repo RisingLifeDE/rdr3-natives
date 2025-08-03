@@ -1,14 +1,14 @@
 {
     "0x95CA12E2C68043E5": {
         "name": "_DOES_PED_HAVE_RIFLE",
-        "comment": "Returns whether the ped has a rifle p1: 0 or 1",
+        "comment": "",
         "params": [
             {
                 "type": "Ped",
                 "name": "ped"
             },
             {
-                "type": "int",
+                "type": "BOOL",
                 "name": "p1"
             }
         ],

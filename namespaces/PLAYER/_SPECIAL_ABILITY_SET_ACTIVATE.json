@@ -1,7 +1,7 @@
 {
     "0xBBA140062B15A8AC": {
         "name": "_SPECIAL_ABILITY_SET_ACTIVATE",
-        "comment": "Activates the special ability for the specified player.",
+        "comment": "Activates the special ability for the specified player.\nExample usage:\n\nActivate the special ability for the current player\nPLAYER::_SPECIAL_ABILITY_SET_ACTIVATE(PLAYER::PLAYER_ID());\n\nVideo: https://imgur.com/gallery/0xbba140062b15a8ac-P8jniMu",
         "params": [
             {
                 "type": "Player",

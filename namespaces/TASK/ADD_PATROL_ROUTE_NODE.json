@@ -8,7 +8,7 @@
                 "name": "nodeId"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "scenarioName"
             },
             {

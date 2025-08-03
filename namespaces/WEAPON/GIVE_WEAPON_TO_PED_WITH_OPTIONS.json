@@ -9,7 +9,7 @@
             },
             {
                 "type": "Any*",
-                "name": "data"
+                "name": "inData"
             },
             {
                 "type": "Any*",

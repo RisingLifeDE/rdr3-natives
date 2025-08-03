@@ -8,7 +8,7 @@
                 "name": "p0"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "context"
             },
             {

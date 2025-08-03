@@ -16,7 +16,7 @@
                 "name": "pedToCowerFrom"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "p3"
             }
         ],

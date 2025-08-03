@@ -1,7 +1,7 @@
 {
     "0x11E73195E735B25B": {
         "name": "_UI_STATE_MACHINE_IS_EXITED",
-        "comment": "",
+        "comment": "It's either EXITED or EXITING",
         "params": [
             {
                 "type": "Hash",

@@ -1,7 +1,7 @@
 {
     "0xD38744167B2FA257": {
         "name": "SET_BLIP_SCALE",
-        "comment": "only works for BLIP_ADD_FOR_RADIUS AND BLIP_ADD_FOR_AREA, this native works as a radius not really a scale",
+        "comment": "",
         "params": [
             {
                 "type": "Blip",

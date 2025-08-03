@@ -1,7 +1,7 @@
 {
     "0x27AD7162D3FED01E": {
         "name": "_GET_NUM_DEADEYE_MARKS_ON_PED",
-        "comment": "Retrieves the number of marks placed on a PED when Deadeye mode is active for the specified player. ",
+        "comment": "Retrieves the number of marks placed on a PED when Deadeye mode is active for the specified player.\nExample usage:\nint marksCount = PLAYER::_GET_NUM_DEADEYE_MARKS_ON_PED(PLAYER::PLAYER_ID(), pedHandle);\nVideo: https://imgur.com/gallery/0x27ad7162d3fed01e-XvMXq2d",
         "params": [
             {
                 "type": "Player",

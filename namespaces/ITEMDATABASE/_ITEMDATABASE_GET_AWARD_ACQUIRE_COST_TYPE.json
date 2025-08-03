@@ -1,11 +1,11 @@
 {
     "0x12DF9C58201DD19A": {
         "name": "_ITEMDATABASE_GET_AWARD_ACQUIRE_COST_TYPE",
-        "comment": "_ITEMDATABASE_GET_(A)* - _ITEMDATABASE_GET_(B)*\n```\n\n```\nNativeDB Introduced: v1311",
+        "comment": "_ITEMDATABASE_GET_(A)* - _ITEMDATABASE_GET_(B)*",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Hash",
+                "name": "key"
             }
         ],
         "return_type": "int",

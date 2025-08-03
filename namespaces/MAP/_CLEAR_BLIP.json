@@ -1,14 +1,14 @@
 {
     "0x01B928CA2E198B01": {
         "name": "_CLEAR_BLIP",
-        "comment": "Clear blip data. It must be used before RemoveBlip I'm pretty sure that blips are handled internally with databinding. This function should then allow you to clear blip container and therefore free up memory?.",
+        "comment": "Clears blip data, must be called before REMOVE_BLIP.\nBlips seem to be handled via databinding internally, this function should then allow you to clear blip container and therefore free up memory.",
         "params": [
             {
                 "type": "Blip",
-                "name": "blipid"
+                "name": "blip"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207"
     }
 }

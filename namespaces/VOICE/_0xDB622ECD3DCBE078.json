@@ -8,7 +8,7 @@
                 "name": "player"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207"
     }
 }
