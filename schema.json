@@ -72,7 +72,7 @@
 				"Pickup", "Pickup*",
 				"Player", "Player*", "const Player*",
 				"ScrHandle", "ScrHandle*",
-				"Vector3*",
+				"Vector3", "Vector3*", "const Vector3*",
 				"Vehicle", "Vehicle*", "const Vehicle*",
 				"AnimScene", "AnimScene*",
 				"PersChar", "PersChar*",
