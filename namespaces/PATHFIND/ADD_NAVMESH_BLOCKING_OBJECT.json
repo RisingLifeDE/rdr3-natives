@@ -40,7 +40,7 @@
                 "name": "p8"
             }
         ],
-        "return_type": "Object",
+        "return_type": "Any",
         "build": "1207"
     }
 }

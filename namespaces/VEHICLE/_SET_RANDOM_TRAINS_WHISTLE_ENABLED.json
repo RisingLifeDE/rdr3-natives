@@ -1,0 +1,18 @@
+{
+    "0x1BFBAFCC6760FF02": {
+        "name": "_SET_RANDOM_TRAINS_WHISTLE_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

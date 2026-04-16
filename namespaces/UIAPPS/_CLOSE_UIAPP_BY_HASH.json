@@ -1,7 +1,7 @@
 {
     "0x2FF10C9C3F92277E": {
         "name": "_CLOSE_UIAPP_BY_HASH",
-        "comment": "",
+        "comment": "Closes Ui App by hash",
         "params": [
             {
                 "type": "Hash",
@@ -9,6 +9,12 @@
             }
         ],
         "return_type": "void",
-        "build": "1207"
+        "build": "1207",
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "if IsUiappActiveByHash(`abilities`) then\r\n   CloseUiappByHash(`abilities`)\r\nend"
+            }
+        ]
     }
 }

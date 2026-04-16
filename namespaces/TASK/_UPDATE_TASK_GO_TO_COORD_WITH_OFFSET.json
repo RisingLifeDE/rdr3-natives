@@ -1,0 +1,46 @@
+{
+    "0x3FFCD7BBA074CC80": {
+        "name": "_UPDATE_TASK_GO_TO_COORD_WITH_OFFSET",
+        "comment": "In-place update for a running follow-to-offset/go-to task: sets new target coords + local offset, with speed and arrival tolerance (foot or mount; no effect if no compatible task)",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "targetX"
+            },
+            {
+                "type": "float",
+                "name": "targetY"
+            },
+            {
+                "type": "float",
+                "name": "targetZ"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "tolerance"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

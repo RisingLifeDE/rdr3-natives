@@ -12,7 +12,7 @@
                 "name": "vehicle"
             },
             {
-                "type": "int",
+                "type": "Any",
                 "name": "p2"
             },
             {
@@ -20,7 +20,7 @@
                 "name": "p3"
             },
             {
-                "type": "int",
+                "type": "float",
                 "name": "speed"
             },
             {

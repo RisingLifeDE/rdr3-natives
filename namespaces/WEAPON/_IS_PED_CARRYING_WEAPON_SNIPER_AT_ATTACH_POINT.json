@@ -1,0 +1,18 @@
+{
+    "0xD2209866B0CB72EA": {
+        "name": "_IS_PED_CARRYING_WEAPON_SNIPER_AT_ATTACH_POINT",
+        "comment": "Returns true if the ped has a sniper-type weapon equipped or stored in the specified attach point (slot).",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attachPoint"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

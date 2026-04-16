@@ -36,7 +36,7 @@
                 "name": "scale"
             },
             {
-                "type": "BOOL",
+                "type": "int",
                 "name": "xAxis"
             },
             {

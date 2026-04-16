@@ -1,0 +1,18 @@
+{
+    "0x3CB8859F04763C78": {
+        "name": "_IS_BLIP_ICON_ON_LOCKON_ENTITY_PROMPT",
+        "comment": "checks if the entity lockon prompt contains an icon",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "blip"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

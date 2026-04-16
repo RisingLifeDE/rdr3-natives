@@ -1,0 +1,14 @@
+{
+    "0x03DDBF2D73799F9E": {
+        "name": "_REQUEST_CLIP_SET_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "clipset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

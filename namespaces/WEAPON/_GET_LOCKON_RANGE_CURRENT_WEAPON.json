@@ -1,0 +1,14 @@
+{
+    "0x3799EFCC3C8CD5E1": {
+        "name": "_GET_LOCKON_RANGE_CURRENT_WEAPON",
+        "comment": "Returns the effective lock-on or targeting range for the ped\u2019s current weapon.\nThis value reflects the weapon\u2019s maximum aim assist or targeting distance, used for systems like auto-aim and lock-on overrides.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

@@ -13,11 +13,11 @@
             },
             {
                 "type": "BOOL",
-                "name": "bPeekOnly"
+                "name": "peekOnly"
             },
             {
                 "type": "BOOL*",
-                "name": "bIsRegistered"
+                "name": "isRegistered"
             }
         ],
         "return_type": "BOOL",

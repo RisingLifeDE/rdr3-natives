@@ -8,8 +8,8 @@
                 "name": "ped"
             },
             {
-                "type": "Ped",
-                "name": "facingPed"
+                "type": "int",
+                "name": "p1"
             }
         ],
         "return_type": "void",

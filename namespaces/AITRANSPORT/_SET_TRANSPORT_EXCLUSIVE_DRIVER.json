@@ -1,0 +1,22 @@
+{
+    "0x4248AB2EEB3C75AD": {
+        "name": "_SET_TRANSPORT_EXCLUSIVE_DRIVER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "transportEntity"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

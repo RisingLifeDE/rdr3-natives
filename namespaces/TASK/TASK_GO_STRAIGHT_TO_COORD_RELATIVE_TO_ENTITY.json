@@ -17,7 +17,7 @@
             },
             {
                 "type": "float",
-                "name": "yOffset"
+                "name": "Yoffset"
             },
             {
                 "type": "float",

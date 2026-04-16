@@ -1,0 +1,22 @@
+{
+    "0xC3995D396F1D97B6": {
+        "name": "_GET_PED_HAS_SIMPLE_PLAYER_MEMORY_CHANGED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "memoryType"
+            },
+            {
+                "type": "int",
+                "name": "ms"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

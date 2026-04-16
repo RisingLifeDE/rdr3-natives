@@ -1,0 +1,18 @@
+{
+    "0xA21AA2F0C2180125": {
+        "name": "_SET_CARRIABLE_PICKUP_PROMPT_ENABLED",
+        "comment": "Enables or disables the contextual Pick Up prompt for a carriable entity\n object \u2014 A carriable entity (animal carcass, pelt bundle, sack/crate flagged as carriable, etc.)",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

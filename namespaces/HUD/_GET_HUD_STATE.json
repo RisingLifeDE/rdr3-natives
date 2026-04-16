@@ -1,0 +1,14 @@
+{
+    "0x7EC0D68233E391AC": {
+        "name": "_GET_HUD_STATE",
+        "comment": "Returns the state of a specific HUD Component\neHudVisibilitySlotType: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eHudVisibilitySlotType",
+        "params": [
+            {
+                "type": "int",
+                "name": "hudComponent"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

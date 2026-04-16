@@ -1,14 +1,14 @@
 {
     "0x3DF1A0A58498E209": {
         "name": "_0x3DF1A0A58498E209",
-        "comment": "_SET_FORCE* - _SET_LOCAL*",
+        "comment": "",
         "params": [
             {
                 "type": "Object",
                 "name": "object"
             },
             {
-                "type": "BOOL",
+                "type": "Any",
                 "name": "p1"
             }
         ],

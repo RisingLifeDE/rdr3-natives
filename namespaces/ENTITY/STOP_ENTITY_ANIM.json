@@ -1,7 +1,7 @@
 {
     "0x786591D986DE9159": {
         "name": "STOP_ENTITY_ANIM",
-        "comment": "Doesn't actually return anything.",
+        "comment": "",
         "params": [
             {
                 "type": "Entity",
@@ -20,7 +20,7 @@
                 "name": "p3"
             }
         ],
-        "return_type": "BOOL",
+        "return_type": "Any",
         "build": "1207"
     }
 }

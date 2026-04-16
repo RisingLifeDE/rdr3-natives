@@ -4,11 +4,11 @@
         "comment": "Related to container entity (RANSACK_ATTACHED_LOCKBOX / RANSACK_ATTACHED_CHEST)",
         "params": [
             {
-                "type": "Entity",
-                "name": "entity"
+                "type": "Any",
+                "name": "p0"
             }
         ],
-        "return_type": "BOOL",
+        "return_type": "Any",
         "build": "1355"
     }
 }

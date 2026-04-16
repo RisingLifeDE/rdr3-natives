@@ -1,50 +1,48 @@
 {
     "0xD48227263E3D06AE": {
         "name": "_ADD_AMBIENT_PLAYER_INTERACTIVE_FOCUS_PRESET_AT_COORDS",
-        "comment": "Adds an \"interactive focus mode preset\" between a player and a specific set of coordinates with a target entity.\nTo access all available presets, refer to the file located at:\n`\\update_1.rpf\\common\\data\\interactive_focus_mode_presets.meta`\n\nRelated function:\n- _DISABLE_PLAYER_INTERACTIVE_FOCUS_PRESET (0xC67A4910425F11F1)\n\nVideo: https://imgur.com/gallery/0xd48227263e3d06ae-SUJhMoA",
+        "comment": "Adds an interactive focus mode preset between a player and a specific set of coordinates with a target entity.\nTo access all available presets, refer to the file located at:update_1.rpf.common.data.interactive_focus_mode_presets.meta\n",
         "params": [
             {
                 "type": "Player",
                 "name": "player"
             },
             {
-                "type": "float",
-                "name": "x1"
+                "type": "Vector3*",
+                "name": "p1"
             },
             {
-                "type": "float",
-                "name": "y1"
-            },
-            {
-                "type": "float",
-                "name": "z1"
-            },
-            {
-                "type": "const char*",
+                "type": "char*",
                 "name": "preset"
             },
             {
                 "type": "float",
-                "name": "x2"
+                "name": "x"
             },
             {
                 "type": "float",
-                "name": "y2"
+                "name": "y"
             },
             {
                 "type": "float",
-                "name": "z2"
+                "name": "z"
             },
             {
                 "type": "Entity",
                 "name": "targetEntity"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "name"
             }
         ],
         "return_type": "void",
-        "build": "1232"
+        "build": "1232",
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "AddPlayerInteractiveFocusPresetAtCoords(PlayerId(),GetEntityCoords(PlayerPedId()),'ForcedILONoIcon',0.0,0.0,0.0,PlayerPedId(),'text')"
+            }
+        ]
     }
 }

@@ -1,0 +1,18 @@
+{
+    "0x07E2E21E799080A0": {
+        "name": "_SET_TRAIN_DESTRUCTION_ENABLED",
+        "comment": "Enables/disables damage/explosion flags on the engine and all attached cars; typically set true before EXPLODE_VEHICLE.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

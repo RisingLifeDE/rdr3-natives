@@ -1,0 +1,14 @@
+{
+    "0x85B8F04555AB49B8": {
+        "name": "_HAS_CLIP_SET_LOADED_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "clipset"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

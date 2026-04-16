@@ -1,0 +1,22 @@
+{
+    "0x4587374F88B7F6C2": {
+        "name": "_DECOR_REGISTER_NETWORKED",
+        "comment": "Old Name: _DECOR_REGISTER_2",
+        "params": [
+            {
+                "type": "char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "int",
+                "name": "type"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetworked"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "0xB8E213D02F37947D": {
+        "name": "_FIND_SCENARIO_ALL_POINTS_IN_VOLUME_OF_TYPE",
+        "comment": "Finds all scenario points of a given type that lie inside a Volume and writes them into an Itemset Typically used with `CREATE_ITEMSET` Iterate results with `GET_ITEMSET_SIZE` and `GET_INDEXED_SCENARIO_POINT_INDEX_IN_ITEMSET`",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "ItemSet",
+                "name": "itemset"
+            },
+            {
+                "type": "Hash",
+                "name": "scenarioType"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            },
+            {
+                "type": "int",
+                "name": "p6"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

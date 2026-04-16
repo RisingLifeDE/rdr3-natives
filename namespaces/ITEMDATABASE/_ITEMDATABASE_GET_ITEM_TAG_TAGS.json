@@ -1,0 +1,22 @@
+{
+    "0x8870895BA5ED9385": {
+        "name": "_ITEMDATABASE_GET_ITEM_TAG_TAGS",
+        "comment": "Returns the ci tags of the selected item tag\nkey: Hash \u2014 Wanted key (e.g WEAPON_RIFLE_VARMINT).tag: Hash \u2014 The item tag (e.g TAG_ITEM_PROPERTY).data: Any* - CI tag list starting at the offset \"1\", the offset 0 is to define the max number of tags you want to collect (uselly 5 in R* scripts, surelly the limit)",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "key"
+            },
+            {
+                "type": "Hash",
+                "name": "tagType"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "int",
+        "build": "1232"
+    }
+}

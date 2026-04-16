@@ -1,0 +1,26 @@
+{
+    "0x583AE9AF9CEE0958": {
+        "name": "_TASK_VEHICLE_HAS_DESTINATION",
+        "comment": "Returns true if the vehicle\u2019s has a destination set previously set with `_TASK_VEHICLE_DRIVE_TO_DESTINATION_2` clear using `_CLEAR_VEHICLE_TASKS`",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

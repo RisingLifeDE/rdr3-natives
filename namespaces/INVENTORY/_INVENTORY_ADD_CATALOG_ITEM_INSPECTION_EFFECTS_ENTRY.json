@@ -1,0 +1,26 @@
+{
+    "0x9D21B185ABC2DBC4": {
+        "name": "_INVENTORY_ADD_CATALOG_ITEM_INSPECTION_EFFECTS_ENTRY",
+        "comment": "Adds an effects entry to the CatalogItemInspection container, return int to be used with _0x75CFAC49301E134F",
+        "params": [
+            {
+                "type": "int",
+                "name": "entryId"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "BOOL",
+                "name": "unk1"
+            },
+            {
+                "type": "BOOL",
+                "name": "unk2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

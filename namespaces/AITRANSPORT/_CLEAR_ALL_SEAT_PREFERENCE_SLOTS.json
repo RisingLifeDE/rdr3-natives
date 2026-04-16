@@ -1,0 +1,14 @@
+{
+    "0x5639FBEA922788DA": {
+        "name": "_CLEAR_ALL_SEAT_PREFERENCE_SLOTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "transportEntity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

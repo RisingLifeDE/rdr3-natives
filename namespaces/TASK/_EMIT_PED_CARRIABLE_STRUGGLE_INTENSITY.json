@@ -1,0 +1,18 @@
+{
+    "0xBD1C3C0F271C39D3": {
+        "name": "_EMIT_PED_CARRIABLE_STRUGGLE_INTENSITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

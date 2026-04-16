@@ -1,0 +1,26 @@
+{
+    "0x244430C13BA5258E": {
+        "name": "_FIND_NEAREST_PED_AROUND_ANIMAL",
+        "comment": "Finds the nearest ped around the specified originPed, with optional filters for life state and predator/fish behavior\n(all false) returns the nearest ped regardless of alive/dead state",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "animalPed"
+            },
+            {
+                "type": "BOOL",
+                "name": "aliveOnly"
+            },
+            {
+                "type": "BOOL",
+                "name": "deadOnly"
+            },
+            {
+                "type": "BOOL",
+                "name": "preferDeadPredators"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

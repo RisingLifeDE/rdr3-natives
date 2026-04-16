@@ -1,0 +1,38 @@
+{
+    "0xC2E62678D602853C": {
+        "name": "_SET_VEHICLE_ROAD_LINK_FORCED",
+        "comment": "Picks the road/path link nearest (start to end) and stores it on the vehicle's driving component (used by R* Scripts to choose an exit link).",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "startX"
+            },
+            {
+                "type": "float",
+                "name": "startY"
+            },
+            {
+                "type": "float",
+                "name": "startZ"
+            },
+            {
+                "type": "float",
+                "name": "endX"
+            },
+            {
+                "type": "float",
+                "name": "endY"
+            },
+            {
+                "type": "float",
+                "name": "endZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

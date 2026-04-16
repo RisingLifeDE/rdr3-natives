@@ -1,0 +1,14 @@
+{
+    "0x0DE0944ECCB3DF5D": {
+        "name": "_IS_PED_TAKING_POISON_GAS_DAMAGE",
+        "comment": "Checks whether the given ped is currently taking damage from poisonous gas/fog volumes (e.g., toxic moonshine cloud, scripted poison fog).",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

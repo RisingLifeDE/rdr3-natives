@@ -1,0 +1,18 @@
+{
+    "0x1ECF56C040FD839C": {
+        "name": "_EMIT_PED_CARRIABLE_STRUGGLE_DIRECTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "direction"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

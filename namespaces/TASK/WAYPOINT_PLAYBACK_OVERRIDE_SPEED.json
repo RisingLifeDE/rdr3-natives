@@ -16,7 +16,7 @@
                 "name": "p2"
             },
             {
-                "type": "float",
+                "type": "Any",
                 "name": "p3"
             },
             {

@@ -3,7 +3,7 @@
         "name": "QUEUE_OPERATION_TO_CREATE_SORTED_LIST_OF_PHOTOS",
         "comment": "",
         "params": [],
-        "return_type": "BOOL",
+        "return_type": "Any",
         "build": "1207"
     }
 }

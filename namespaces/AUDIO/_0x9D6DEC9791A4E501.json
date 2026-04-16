@@ -1,14 +1,14 @@
 {
     "0x9D6DEC9791A4E501": {
         "name": "_0x9D6DEC9791A4E501",
-        "comment": "Returns true or false if the ped can say a specific speech line with PLAY_PED_AMBIENT_SPEECH_NATIVE, similar to DOES_CONTEXT_EXIST_FOR_THIS_PED.\nNot reliable on remote clients when used on a player ped.\nParams: p2 and p3 are usually false and true, respectively.",
+        "comment": "Returns true or false if the ped can say a specific speech line with PLAY_PED_AMBIENT_SPEECH_NATIVE, similar to DOES_CONTEXT_EXIST_FOR_THIS_PED",
         "params": [
             {
                 "type": "Ped",
                 "name": "ped"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "speechName"
             },
             {

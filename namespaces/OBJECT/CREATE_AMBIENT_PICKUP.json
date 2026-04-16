@@ -29,7 +29,7 @@
             },
             {
                 "type": "Hash",
-                "name": "customModel"
+                "name": "modelHash"
             },
             {
                 "type": "BOOL",

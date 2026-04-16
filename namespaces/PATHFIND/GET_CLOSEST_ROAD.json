@@ -48,7 +48,7 @@
                 "name": "p10"
             }
         ],
-        "return_type": "BOOL",
+        "return_type": "Any",
         "build": "1207"
     }
 }

@@ -1,0 +1,18 @@
+{
+    "0x8C8371EDFAF014A0": {
+        "name": "_SET_TRANSPORT_EXIT_BLEND_RATIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "ratio"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

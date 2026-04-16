@@ -1,0 +1,14 @@
+{
+    "0x4ECCC2815CA79AE2": {
+        "name": "_IS_CARRIABLE_HAT_PICKUP_REQUEST_ACTIVE",
+        "comment": "old name _IS_HAT_BEING_PICKED_UP_2\nReturns whether a carriable hat equip request is currently active Usually becomes true right after `_REQUEST_CARRIABLE_HAT_EQUIP_TO_PED` is called",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

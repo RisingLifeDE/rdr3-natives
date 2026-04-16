@@ -1,14 +1,14 @@
 {
     "0x44813684F72B563C": {
         "name": "_CLEAR_BLIP_ICON_FROM_LOCKON_ENTITY_PROMPT",
-        "comment": "Removes the blip icon from the entity lockon prompt",
+        "comment": "will remove the blip icon from the entity lockon prompt,p1 = GET_BLIP_FROM_ENTITY",
         "params": [
             {
                 "type": "Entity",
                 "name": "entity"
             },
             {
-                "type": "Blip",
+                "type": "int",
                 "name": "blip"
             }
         ],

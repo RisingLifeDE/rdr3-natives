@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "pathName"
             },
             {
-                "type": "Any*",
+                "type": "Any",
                 "name": "p1"
             },
             {

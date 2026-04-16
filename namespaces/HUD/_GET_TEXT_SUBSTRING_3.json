@@ -1,10 +1,10 @@
 {
     "0x806862E5D266CF38": {
         "name": "_GET_TEXT_SUBSTRING_3",
-        "comment": "_GET_BOUNTY* - _GET_CHARACTER*",
+        "comment": "Example: HUD::_0x806862E5D266CF38(&string1, 0, HUD::GET_LENGTH_OF_LITERAL_STRING(&string1) - HUD::GET_LENGTH_OF_LITERAL_STRING(\"_DUALWIELD\"))",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "text"
             },
             {
@@ -16,7 +16,7 @@
                 "name": "length"
             }
         ],
-        "return_type": "const char*",
+        "return_type": "Any",
         "build": "1207"
     }
 }

@@ -1,0 +1,18 @@
+{
+    "0xB8AB265426CFE6DD": {
+        "name": "_SET_HORSE_SCRIPTED_FLAG",
+        "comment": "Sets some flag on a horse",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

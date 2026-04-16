@@ -1,0 +1,14 @@
+{
+    "0xB8F52A3F84A7CC59": {
+        "name": "_HAS_CARRIABLE_CONFIG_HASH_LOADED",
+        "comment": "list of carriable configs  https://gist.github.com/outsider31000/6272561fb992ccff80efbd130e0e9b9f",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "carriableConfig"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

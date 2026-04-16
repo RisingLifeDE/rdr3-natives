@@ -1,0 +1,18 @@
+{
+    "0x9CC94A948EAF5372": {
+        "name": "_GET_STATION_FROM_TRAIN_STATION_INDEX",
+        "comment": "Returns the station hash for a track and station index.\n- trackIndex: int \u2014 From 0 to 24\n- stationIndex: int \u2014 From 0 to 7",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackIndex"
+            },
+            {
+                "type": "int",
+                "name": "stationIndex"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

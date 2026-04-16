@@ -1,0 +1,18 @@
+{
+    "0xF3C3503276F4A034": {
+        "name": "_FORCE_ANIMAL_SAMPLED",
+        "comment": "Forces the specified animal/ped to have (or not have) its sampled state flag set.Acts as the setter counterpart to:_HAS_PED_ANIMAL_SAMPLED",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "animal"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1436"
+    }
+}

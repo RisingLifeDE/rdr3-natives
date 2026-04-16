@@ -1,0 +1,18 @@
+{
+    "0x90703A8F75EE4ABD": {
+        "name": "_FINISH_SCENARIO_TRANSITION",
+        "comment": "Attempts to finish/advance a ped\u2019s ongoing scenario transition (between scenario clips/anims). Returns true if the ped is in a scenario transition and the given value pushes it forward, otherwise returns false",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "phaseOrDelta"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

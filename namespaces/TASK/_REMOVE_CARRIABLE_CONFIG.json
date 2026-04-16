@@ -1,0 +1,14 @@
+{
+    "0x6AFDA2264925BD11": {
+        "name": "_REMOVE_CARRIABLE_CONFIG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "carriableConfig"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

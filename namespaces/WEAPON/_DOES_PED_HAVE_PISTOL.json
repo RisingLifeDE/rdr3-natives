@@ -1,14 +1,14 @@
 {
     "0xBFCA7AFABF9D7967": {
         "name": "_DOES_PED_HAVE_PISTOL",
-        "comment": "",
+        "comment": "Returns whether the ped has a pistol p1: 0 or 1",
         "params": [
             {
                 "type": "Ped",
                 "name": "ped"
             },
             {
-                "type": "BOOL",
+                "type": "int",
                 "name": "p1"
             }
         ],

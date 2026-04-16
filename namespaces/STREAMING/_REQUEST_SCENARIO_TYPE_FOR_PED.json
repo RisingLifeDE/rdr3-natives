@@ -1,0 +1,26 @@
+{
+    "0xB223249B7798EEED": {
+        "name": "_REQUEST_SCENARIO_TYPE_FOR_PED",
+        "comment": "requests a scenario type just like _REQUEST_SCENARIO_TYPE but for a specifc ped p2 is a flag unknown",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "scenarioType"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "Hash",
+                "name": "consitionalAnim"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xF40A109B4B79A848": {
+        "name": "_TASK_POINT_AT_ENTITY",
+        "comment": "Orders the ped to point at the given entity (finger/upper-body point), similar to task point entity",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "targetEntity"
+            },
+            {
+                "type": "int",
+                "name": "durationMs"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

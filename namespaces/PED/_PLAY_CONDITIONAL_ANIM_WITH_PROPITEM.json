@@ -1,0 +1,26 @@
+{
+    "0xCE7A6C1D5CDE1F9D": {
+        "name": "_PLAY_CONDITIONAL_ANIM_WITH_PROPITEM",
+        "comment": "Plays a conditional locomotion animation with an attached prop item,commonly used for LOCO attachment interactions (e.g., attaching/carrying a crate) ex conditionalAnimName: LOCO_ATTACH_CRATE_TNT",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "char*",
+                "name": "propItemName"
+            },
+            {
+                "type": "char*",
+                "name": "conditionalAnimName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

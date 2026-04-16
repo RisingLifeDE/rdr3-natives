@@ -1,0 +1,14 @@
+{
+    "0x9F348DE670423460": {
+        "name": "_REMOVE_CLIP_SET_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "clipset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

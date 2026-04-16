@@ -1,0 +1,18 @@
+{
+    "0xF9CFF5BB70E8A2CB": {
+        "name": "_SET_PED_WETNESS_AMOUNT",
+        "comment": "only works when you use SET_PED_WETNESS_HEIGHT first , if you do 0.0 (it resets) you need to apply again with SET_PED_WETNESS_HEIGHT to see the wetness effects again",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

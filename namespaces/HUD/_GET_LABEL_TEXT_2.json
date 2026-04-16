@@ -1,7 +1,7 @@
 {
     "0x3429670F9B9EF2D3": {
         "name": "_GET_LABEL_TEXT_2",
-        "comment": "_GET_FILENAME_* - _GET_FRAME*",
+        "comment": "",
         "params": [
             {
                 "type": "const char*",

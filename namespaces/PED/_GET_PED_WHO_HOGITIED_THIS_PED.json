@@ -1,0 +1,14 @@
+{
+    "0x3D9F958834AB9C30": {
+        "name": "_GET_PED_WHO_HOGITIED_THIS_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xCA95924C893A0C91": {
+        "name": "_COMPUTE_SPEED_FOR_PED_MOVE_BLEND_RATIO",
+        "comment": "Returns vehicle speed",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

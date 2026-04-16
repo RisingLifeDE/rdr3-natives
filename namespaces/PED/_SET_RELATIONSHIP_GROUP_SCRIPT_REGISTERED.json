@@ -1,0 +1,18 @@
+{
+    "0xDC91F22F09BC6C2F": {
+        "name": "_SET_RELATIONSHIP_GROUP_SCRIPT_REGISTERED",
+        "comment": "Used in Script Function MP_MAIN_OFFLINE__INITIALIZE_GAME\n_SET_RELATIONSHIP_*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "group"
+            },
+            {
+                "type": "BOOL",
+                "name": "unregister"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

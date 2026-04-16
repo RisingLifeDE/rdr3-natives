@@ -1,0 +1,26 @@
+{
+    "0x1D125814EBC517EB": {
+        "name": "_TASK_VEHICLE_ADD_NEXT_DESTINATION",
+        "comment": "Adds a waypoint to an AI vehicle's active drive-to-destination task; only the last 3 points are kept (ignored if no such task).",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

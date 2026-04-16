@@ -1,0 +1,18 @@
+{
+    "0x4BA972D0E5AD8122": {
+        "name": "_SET_DRIVING_SEAT",
+        "comment": "Sets which seat index acts as the driver seat for driving tasks",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

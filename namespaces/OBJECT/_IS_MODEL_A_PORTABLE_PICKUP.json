@@ -1,0 +1,14 @@
+{
+    "0x20135AF9C10D2A3D": {
+        "name": "_IS_MODEL_A_PORTABLE_PICKUP",
+        "comment": "returns true if the model hash is a portable pickup its used before creating a portable pick up for example",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -8,7 +8,7 @@
                 "name": "ped"
             },
             {
-                "type": "float",
+                "type": "Any",
                 "name": "p1"
             },
             {

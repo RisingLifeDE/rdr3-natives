@@ -1,0 +1,18 @@
+{
+    "0x5A695BD328586B44": {
+        "name": "_GET_LONGARM_STORE_ON_DISMOUNT_STATE",
+        "comment": "Returns the current state of longarm storage on dismount for the specified ped.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

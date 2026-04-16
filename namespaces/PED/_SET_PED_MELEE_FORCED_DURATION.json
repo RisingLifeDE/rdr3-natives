@@ -1,0 +1,18 @@
+{
+    "0x6DB875AFC584FA32": {
+        "name": "_SET_PED_MELEE_FORCED_DURATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "durationMs"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x75CFAC49301E134F": {
+        "name": "_INVENTORY_APPLY_ITEM_EFFECT_TO_STATS_ENTRY",
+        "comment": "entry id from _INVENTORY_ADD_CATALOG_ITEM_INSPECTION_EFFECTS_ENTRY",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "databindingEntryId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

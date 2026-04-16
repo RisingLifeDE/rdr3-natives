@@ -1,0 +1,18 @@
+{
+    "0x44C8F4908F1B2622": {
+        "name": "_EXPLODE_PED_AMMO_TYPE",
+        "comment": "Forces the detonation or effect of a throwable ammo type owned or placed by the specified ped.\nCommonly used for remotely exploding dynamite that belong to the ped.\nammoHashes:\n- joaat(\"AMMO_DYNAMITE\")\n- joaat(\"AMMO_MOLOTOV\")\n- joaat(\"AMMO_POISONBOTTLE\")",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "ammoHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xEC97101A8F311282": {
+        "name": "_GET_AMMO_RECOMMENDED_TYPE_FOR_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

@@ -1,15 +1,11 @@
 {
     "0x445D7D8EA66E373E": {
         "name": "_ATTACH_ENTITY_TO_COORDS_PHYSICALLY",
-        "comment": "",
+        "comment": "Attach an entity to coordinates physically better name may be perfered? seems to be used with boats `p_skiff02x` ? The last 6 params are always 0 everywhere in the base code. p7 = 500.0 some kind of time? p8 =1",
         "params": [
             {
                 "type": "Entity",
                 "name": "entity"
-            },
-            {
-                "type": "int",
-                "name": "p1"
             },
             {
                 "type": "float",
@@ -25,15 +21,15 @@
             },
             {
                 "type": "float",
-                "name": "offsetX"
+                "name": "offsetx"
             },
             {
                 "type": "float",
-                "name": "offsetY"
+                "name": "offsety"
             },
             {
                 "type": "float",
-                "name": "offsetZ"
+                "name": "offsetz"
             },
             {
                 "type": "float",
@@ -41,6 +37,10 @@
             },
             {
                 "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "int",
                 "name": "p9"
             },
             {
@@ -62,10 +62,6 @@
             {
                 "type": "int",
                 "name": "p14"
-            },
-            {
-                "type": "int",
-                "name": "p15"
             }
         ],
         "return_type": "void",

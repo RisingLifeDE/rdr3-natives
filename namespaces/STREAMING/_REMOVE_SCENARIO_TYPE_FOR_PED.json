@@ -1,0 +1,14 @@
+{
+    "0x66BC28E50E85270E": {
+        "name": "_REMOVE_SCENARIO_TYPE_FOR_PED",
+        "comment": "removes the requested scenario type for ped using the id returned by `_REQUEST_SCENARIO_TYPE_FOR_PED`",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenarioTypeId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

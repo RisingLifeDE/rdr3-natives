@@ -1,0 +1,26 @@
+{
+    "0xD1EFA8D68BF5D63D": {
+        "name": "_BREAK_VEHICLE_STRAPS",
+        "comment": "Only used to break draft vehicle log straps. Coords is always equal to the vehicle coords.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

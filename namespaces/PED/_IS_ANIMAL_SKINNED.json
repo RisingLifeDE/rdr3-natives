@@ -1,0 +1,14 @@
+{
+    "0x88A5564B19C15391": {
+        "name": "_IS_ANIMAL_SKINNED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

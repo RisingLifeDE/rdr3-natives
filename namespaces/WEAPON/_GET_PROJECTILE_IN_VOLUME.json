@@ -1,0 +1,18 @@
+{
+    "0x74C8000FDD1BB222": {
+        "name": "_GET_PROJECTILE_IN_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "Any*",
+                "name": "outProjectile"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

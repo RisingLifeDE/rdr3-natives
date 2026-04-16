@@ -1,0 +1,18 @@
+{
+    "0x72E4D1C4639BC465": {
+        "name": "_CREATE_NEW_SCRIPTED_SPEECH",
+        "comment": "Create a scripted speech to control speech. If handle is less than 0, it's invalid.\nparams struct for ScriptedSpeechParams see: PLAY_PED_AMBIENT_SPEECH_NATIVE\nReturns scriptedSpeech handle.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "params"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}
