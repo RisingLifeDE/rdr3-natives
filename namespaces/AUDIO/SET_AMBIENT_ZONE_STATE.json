@@ -9,11 +9,11 @@
             },
             {
                 "type": "BOOL",
-                "name": "isEnabled"
+                "name": "enabled"
             },
             {
                 "type": "BOOL",
-                "name": "p2"
+                "name": "forceUpdate"
             }
         ],
         "return_type": "void",
